@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\invitacion\bin\Release\net8.0\invitacion.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\invitacion\obj\Release\net8.0\invitacion.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\invitacion\obj\Release\net8.0\invitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\invitacion\obj\Release\net8.0\invitacion.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\invitacion\obj\Release\net8.0\invitacion.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\invitacion\obj\Release\net8.0\refint\invitacion.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\invitacion\obj\Release\net8.0\ref\invitacion.dll

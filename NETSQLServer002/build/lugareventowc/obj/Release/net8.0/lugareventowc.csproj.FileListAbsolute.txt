@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugareventowc\bin\Release\net8.0\lugareventowc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugareventowc\obj\Release\net8.0\lugareventowc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugareventowc\obj\Release\net8.0\lugareventowc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugareventowc\obj\Release\net8.0\lugareventowc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugareventowc\obj\Release\net8.0\lugareventowc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugareventowc\obj\Release\net8.0\refint\lugareventowc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugareventowc\obj\Release\net8.0\ref\lugareventowc.dll

@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculo\bin\Release\net8.0\espectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculo\obj\Release\net8.0\espectaculo.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculo\obj\Release\net8.0\espectaculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculo\obj\Release\net8.0\espectaculo.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculo\obj\Release\net8.0\espectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculo\obj\Release\net8.0\refint\espectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculo\obj\Release\net8.0\ref\espectaculo.dll

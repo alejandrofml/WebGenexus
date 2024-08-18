@@ -1,0 +1,78 @@
+{ 
+    "Resources" : [ { 
+        "IsDefault" : true,
+        "ResourceFile" : "Images_DEFAULT.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "GeneXusUnanimo.UnanimoWeb",
+        "ResourceFile" : "Images_English_GeneXusUnanimo_UnanimoWeb.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoWeb",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoWeb.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "GeneXusUnanimo.Unanimo",
+        "ResourceFile" : "Images_English_GeneXusUnanimo_Unanimo.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.Unanimo",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_Unanimo.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "GeneXusUnanimo.UnanimoControls",
+        "ResourceFile" : "Images_English_GeneXusUnanimo_UnanimoControls.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoControls",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoControls.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "GeneXusUnanimo.UnanimoMobile",
+        "ResourceFile" : "Images_English_GeneXusUnanimo_UnanimoMobile.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoMobile",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoMobile.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "GeneXusUnanimo.UnanimoAngular",
+        "ResourceFile" : "Images_English_GeneXusUnanimo_UnanimoAngular.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "GeneXusUnanimo.UnanimoAngular",
+        "ResourceFile" : "Images_Spanish_GeneXusUnanimo_UnanimoAngular.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "TallerGeneXus",
+        "ResourceFile" : "Images_English_TallerGeneXus.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "TallerGeneXus",
+        "ResourceFile" : "Images_Spanish_TallerGeneXus.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "Taller3",
+        "ResourceFile" : "Images_English_Taller3.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "Taller3",
+        "ResourceFile" : "Images_Spanish_Taller3.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "Taller",
+        "ResourceFile" : "Images_English_Taller.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "Taller",
+        "ResourceFile" : "Images_Spanish_Taller.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "TicketTaller",
+        "ResourceFile" : "Images_English_TicketTaller.json"
+    }, { 
+        "Language" : "Spanish",
+        "Theme" : "TicketTaller",
+        "ResourceFile" : "Images_Spanish_TicketTaller.json"
+    } ]
+}

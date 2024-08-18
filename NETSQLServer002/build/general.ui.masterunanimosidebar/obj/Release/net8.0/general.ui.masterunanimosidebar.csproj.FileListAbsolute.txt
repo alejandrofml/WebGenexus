@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\general.ui.masterunanimosidebar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\refint\general.ui.masterunanimosidebar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\ref\general.ui.masterunanimosidebar.dll

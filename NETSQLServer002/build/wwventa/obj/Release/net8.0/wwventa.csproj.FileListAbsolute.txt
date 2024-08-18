@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwventa\bin\Release\net8.0\wwventa.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwventa\obj\Release\net8.0\wwventa.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwventa\obj\Release\net8.0\wwventa.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwventa\obj\Release\net8.0\wwventa.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwventa\obj\Release\net8.0\wwventa.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwventa\obj\Release\net8.0\refint\wwventa.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwventa\obj\Release\net8.0\ref\wwventa.dll

@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoespectaculoconprecios\bin\Release\net8.0\alistadoespectaculoconprecios.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoespectaculoconprecios\obj\Release\net8.0\alistadoespectaculoconprecios.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoespectaculoconprecios\obj\Release\net8.0\alistadoespectaculoconprecios.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoespectaculoconprecios\obj\Release\net8.0\alistadoespectaculoconprecios.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoespectaculoconprecios\obj\Release\net8.0\alistadoespectaculoconprecios.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoespectaculoconprecios\obj\Release\net8.0\refint\alistadoespectaculoconprecios.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoespectaculoconprecios\obj\Release\net8.0\ref\alistadoespectaculoconprecios.dll

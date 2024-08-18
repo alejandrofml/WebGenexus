@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\GeneXus.Programs.Common\bin\Release\net8.0\GeneXus.Programs.Common.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\GeneXus.Programs.Common\obj\Release\net8.0\refint\GeneXus.Programs.Common.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\GeneXus.Programs.Common\obj\Release\net8.0\ref\GeneXus.Programs.Common.dll

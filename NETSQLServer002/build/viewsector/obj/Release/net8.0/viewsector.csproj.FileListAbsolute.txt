@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewsector\bin\Release\net8.0\viewsector.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewsector\obj\Release\net8.0\viewsector.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewsector\obj\Release\net8.0\viewsector.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewsector\obj\Release\net8.0\viewsector.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewsector\obj\Release\net8.0\viewsector.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewsector\obj\Release\net8.0\refint\viewsector.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewsector\obj\Release\net8.0\ref\viewsector.dll

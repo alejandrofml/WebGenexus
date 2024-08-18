@@ -1,0 +1,3 @@
+bc_dt_elem_i([ 0,6,0 ],'Paisid',allownulls,no).
+bc_dt_elem_i([ 0,6,0 ],'Paisnombre',allownulls,no).
+ 

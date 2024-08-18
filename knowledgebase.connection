@@ -1,0 +1,11 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_TallerGeneXus</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\KBs\TallerGeneXus</Directory>
+	<DataFile>GX_KB_TallerGeneXus.mdf</DataFile>
+	<LogFile>GX_KB_TallerGeneXus_log.ldf</LogFile>
+	<HostName>ALE</HostName>
+	<DetachOnClose>False</DetachOnClose>
+</ConnectionInformation>

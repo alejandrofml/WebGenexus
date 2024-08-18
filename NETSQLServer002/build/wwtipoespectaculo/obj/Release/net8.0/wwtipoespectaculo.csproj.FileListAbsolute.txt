@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwtipoespectaculo\bin\Release\net8.0\wwtipoespectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwtipoespectaculo\obj\Release\net8.0\wwtipoespectaculo.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwtipoespectaculo\obj\Release\net8.0\wwtipoespectaculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwtipoespectaculo\obj\Release\net8.0\wwtipoespectaculo.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwtipoespectaculo\obj\Release\net8.0\wwtipoespectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwtipoespectaculo\obj\Release\net8.0\refint\wwtipoespectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwtipoespectaculo\obj\Release\net8.0\ref\wwtipoespectaculo.dll

@@ -1,0 +1,262 @@
+
+<ObjectSpec>
+<SpecVersion>18_0_10-184260</SpecVersion>
+<Object>
+<ObjClsGuid>c9584656-94b6-4ccd-890f-332d11fc2c25</ObjClsGuid>
+<ObjCls>13</ObjCls>
+<ObjId>43</ObjId>
+<ObjName>ActualizarPrecio</ObjName>
+<ObjDesc>Actualizar Precio</ObjDesc>
+<ObjPgmName>ActualizarPrecio</ObjPgmName>
+<ObjClsName>Web Panel</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings>
+<Warning>
+<MsgCode>spc0156</MsgCode>
+<Message>
+<Token>Event </Token>
+<Token>'Aplicar'</Token>
+<Token> for control '</Token>
+<Token>Aplicar</Token>
+<Token>' is not defined.</Token></Message></Warning></Warnings>
+<Errors></Errors>
+<Generator>
+<GenId>41</GenId>
+<GenName>Default (.NET)</GenName></Generator>
+<FormClass>HTML</FormClass>
+<Parameters></Parameters>
+<StandAloneRules>
+<Action>
+<ActionType>DynamicLoad</ActionType>
+<DynamicLoad>
+<ControlName>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></ControlName>
+<CodeAttributes>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></CodeAttributes>
+<DescriptionAttributes>
+<Attribute>
+<AttriId>10</AttriId>
+<AttriName>SectorNombre</AttriName>
+<Description>Sector Nombre</Description></Attribute></DescriptionAttributes>
+<Navigation>
+<NavigationTree>
+<Table>
+<TableId>7</TableId>
+<TableName>Sector</TableName>
+<Description>Sector</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></KeyAttributes>
+<Into>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute>
+<Attribute>
+<AttriId>10</AttriId>
+<AttriName>SectorNombre</AttriName>
+<Description>Sector Nombre</Description></Attribute></Into>
+<Tables></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<NavigationConditions></NavigationConditions>
+<NavigationOrder>
+<Order>
+<Attribute>
+<AttriId>10</AttriId>
+<AttriName>SectorNombre</AttriName>
+<Description>Sector Nombre</Description></Attribute></Order>
+<Condition></Condition></NavigationOrder></Navigation></DynamicLoad></Action>
+<Action>
+<ActionType>DynamicLoad</ActionType>
+<DynamicLoad>
+<ControlName>
+<Attribute>
+<AttriId>7</AttriId>
+<AttriName>PaisId</AttriName>
+<Description>Pais Id</Description></Attribute></ControlName>
+<CodeAttributes>
+<Attribute>
+<AttriId>7</AttriId>
+<AttriName>PaisId</AttriName>
+<Description>Pais Id</Description></Attribute></CodeAttributes>
+<DescriptionAttributes>
+<Attribute>
+<AttriId>11</AttriId>
+<AttriName>PaisNombre</AttriName>
+<Description>Pais Nombre</Description></Attribute></DescriptionAttributes>
+<Navigation>
+<NavigationTree>
+<Table>
+<TableId>8</TableId>
+<TableName>Pais</TableName>
+<Description>Pais</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>7</AttriId>
+<AttriName>PaisId</AttriName>
+<Description>Pais Id</Description></Attribute></KeyAttributes>
+<Into>
+<Attribute>
+<AttriId>7</AttriId>
+<AttriName>PaisId</AttriName>
+<Description>Pais Id</Description></Attribute>
+<Attribute>
+<AttriId>11</AttriId>
+<AttriName>PaisNombre</AttriName>
+<Description>Pais Nombre</Description></Attribute></Into>
+<Tables></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<NavigationConditions></NavigationConditions>
+<NavigationOrder>
+<Order>
+<Attribute>
+<AttriId>11</AttriId>
+<AttriName>PaisNombre</AttriName>
+<Description>Pais Nombre</Description></Attribute></Order>
+<Condition></Condition></NavigationOrder></Navigation></DynamicLoad></Action>
+<Action>
+<ActionType>DynamicLoad</ActionType>
+<DynamicLoad>
+<ControlName>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></ControlName>
+<CodeAttributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></CodeAttributes>
+<DescriptionAttributes>
+<Attribute>
+<AttriId>14</AttriId>
+<AttriName>EspectaculoNombre</AttriName>
+<Description>Espectaculo Nombre</Description></Attribute></DescriptionAttributes>
+<Navigation>
+<NavigationTree>
+<Table>
+<TableId>2</TableId>
+<TableName>Evento</TableName>
+<Description>Evento</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></KeyAttributes>
+<Into>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></Into>
+<Tables>
+<Table>
+<TableId>1</TableId>
+<TableName>Espectaculo</TableName>
+<Description>Espectaculo</Description>
+<RecordsToRead>one</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>1</AttriId>
+<AttriName>EspectaculoId</AttriName>
+<Description>Espectaculo Id</Description></Attribute></KeyAttributes>
+<Into>
+<Attribute>
+<AttriId>14</AttriId>
+<AttriName>EspectaculoNombre</AttriName>
+<Description>Espectaculo Nombre</Description></Attribute></Into>
+<Tables></Tables></Table></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<NavigationConditions></NavigationConditions>
+<NavigationOrder>
+<Order>
+<Attribute>
+<AttriId>14</AttriId>
+<AttriName>EspectaculoNombre</AttriName>
+<Description>Espectaculo Nombre</Description></Attribute></Order>
+<Condition></Condition></NavigationOrder></Navigation></DynamicLoad></Action></StandAloneRules>
+<Event>
+<EventName>Load</EventName>
+<ImplicitForEach>
+<LevelType>For Each</LevelType>
+<LevelBeginRow>0</LevelBeginRow>
+<BaseTable>
+<Table>
+<TableId>3</TableId>
+<TableName>EventoSector</TableName>
+<Description>EventoSector</Description></Table></BaseTable>
+<Order>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Token>,</Token>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></Order>
+<Condition></Condition>
+<IndexName>IEVENTOSECTOR</IndexName>
+<LevelOptions></LevelOptions>
+<OptimizedWhere>
+<StartFrom>
+<Condition>
+<Token>FirstRecord</Token></Condition></StartFrom>
+<LoopWhile>
+<Condition>
+<Token>NotEndOfTable</Token></Condition></LoopWhile></OptimizedWhere>
+<NonOptimizedWhere></NonOptimizedWhere>
+<JoinLocation>1</JoinLocation>
+<NavigationTree>
+<Table>
+<TableId>3</TableId>
+<TableName>EventoSector</TableName>
+<Description>EventoSector</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></KeyAttributes>
+<Tables>
+<Table>
+<TableId>2</TableId>
+<TableName>Evento</TableName>
+<Description>Evento</Description>
+<RecordsToRead>one</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></KeyAttributes>
+<Tables>
+<Table>
+<TableId>6</TableId>
+<TableName>Lugar</TableName>
+<Description>Lugar</Description>
+<RecordsToRead>one</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>LugarId</AttriName>
+<Description>Lugar Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></Tables></Table></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas></ImplicitForEach></Event>
+<Suggests></Suggests></ObjectSpec>

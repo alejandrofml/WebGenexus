@@ -1,0 +1,117 @@
+
+<ObjectSpec>
+<SpecVersion>18_0_10-184260</SpecVersion>
+<Object>
+<ObjClsGuid>1db606f2-af09-4cf9-a3b5-b481519d28f6</ObjClsGuid>
+<ObjCls>0</ObjCls>
+<ObjId>8</ObjId>
+<ObjName>Venta_BC</ObjName>
+<ObjDesc>Venta</ObjDesc>
+<ObjPgmName>Venta_BC</ObjPgmName>
+<ObjClsName>Transaction</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings></Warnings>
+<Errors></Errors>
+<Generator>
+<GenId>41</GenId>
+<GenName>Default (.NET)</GenName></Generator>
+<FormClass>HTML</FormClass>
+<Parameters></Parameters>
+<Levels>
+<Level>
+<LevelType>Trn</LevelType>
+<LevelNumber>10</LevelNumber>
+<BaseTable>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description></Table></BaseTable>
+<NavigationTree>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description>
+<Updated>Yes</Updated>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>8</AttriId>
+<AttriName>VentaId</AttriName>
+<Description>Venta Id</Description></Attribute></KeyAttributes>
+<Tables>
+<Table>
+<TableId>3</TableId>
+<TableName>EventoSector</TableName>
+<Description>EventoSector</Description>
+<RecordsToRead>one</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></Tables></Table></NavigationTree>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas>
+<DynamicLoads></DynamicLoads>
+<Rules></Rules>
+<AfterAttributeRules></AfterAttributeRules>
+<AfterConfirmRules></AfterConfirmRules>
+<TablesToUpdate>
+<TableToUpdate>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description></Table>
+<TableAction>insert</TableAction>
+<AttrisToUpdate>
+<Attribute>
+<AttriId>23</AttriId>
+<AttriName>VentaHoraFecha</AttriName>
+<Description>Venta Hora Fecha</Description></Attribute>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></AttrisToUpdate></TableToUpdate>
+<TableToUpdate>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description></Table>
+<TableAction>update</TableAction>
+<AttrisToUpdate>
+<Attribute>
+<AttriId>23</AttriId>
+<AttriName>VentaHoraFecha</AttriName>
+<Description>Venta Hora Fecha</Description></Attribute>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></AttrisToUpdate></TableToUpdate>
+<TableToUpdate>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description></Table>
+<TableAction>delete</TableAction>
+<AttrisToUpdate></AttrisToUpdate></TableToUpdate></TablesToUpdate>
+<AfterInsertRules></AfterInsertRules>
+<AfterUpdateRules></AfterUpdateRules>
+<AfterDeleteRules></AfterDeleteRules>
+<TablesToControlOnDelete></TablesToControlOnDelete>
+<Levels></Levels>
+<AfterTrnRules></AfterTrnRules>
+<AfterLevelRules></AfterLevelRules></Level></Levels>
+<Suggests></Suggests></ObjectSpec>

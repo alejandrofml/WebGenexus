@@ -1,0 +1,24 @@
+<Objects>
+  <Object>
+    <Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+    <Id>25</Id>
+    <Part>528d1c06-a9c2-420d-bd35-21dca83f12ff</Part>
+  </Object>
+  <Object>
+    <Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+    <Id>43</Id>
+    <Part>d24a58ad-57ba-41b7-9e6e-eaca3543c778</Part>
+  </Object>
+  <Recent>
+    <RecentKBObjectsList>
+      <MaximumItems>10</MaximumItems>
+      <RecentKBObjects>
+        <RecentKBObject>
+          <Key>c9584656-94b6-4ccd-890f-332d11fc2c25-43</Key>
+          <Name>ActualizarPrecio</Name>
+          <LastAccess>2024-08-17T10:50:35.6607004-03:00</LastAccess>
+        </RecentKBObject>
+      </RecentKBObjects>
+    </RecentKBObjectsList>
+  </Recent>
+</Objects>

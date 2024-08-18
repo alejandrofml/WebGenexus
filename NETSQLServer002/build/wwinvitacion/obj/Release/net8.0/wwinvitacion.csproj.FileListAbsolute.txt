@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwinvitacion\bin\Release\net8.0\wwinvitacion.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwinvitacion\obj\Release\net8.0\wwinvitacion.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwinvitacion\obj\Release\net8.0\wwinvitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwinvitacion\obj\Release\net8.0\wwinvitacion.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwinvitacion\obj\Release\net8.0\wwinvitacion.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwinvitacion\obj\Release\net8.0\refint\wwinvitacion.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwinvitacion\obj\Release\net8.0\ref\wwinvitacion.dll

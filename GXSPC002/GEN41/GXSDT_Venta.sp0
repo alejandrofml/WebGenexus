@@ -1,0 +1,70 @@
+ 
+spec_i([ sdt,[ 0,8,0 ],'Venta','Venta',0,eng,'18_0_10-184260' ]).
+ 
+struct_dt_i([ 0,8,0 ],name,'Venta').
+struct_dt_i([ 0,8,0 ],namespace,'TallerGeneXus').
+struct_dt_i([ 0,8,0 ],significantName,'Venta').
+struct_dt_i([ 0,8,0 ],'ObjName','Venta').
+struct_dt_i([ 0,8,0 ],'ObjDesc','Venta').
+struct_dt_i([ 0,8,0 ],'ExternalName','Venta').
+struct_dt_i([ 0,8,0 ],'ExternalNamespace','TallerGeneXus').
+struct_dt_i([ 0,8,0 ],key,[ 8 ]).
+struct_dt_i([ 0,8,0 ],lvl,10).
+struct_dt_i([ 0,8,0 ],fullname,'Venta').
+ 
+struct_dt_elem_i([ 0,8,0 ],1,name,'Ventaid').
+struct_dt_elem_i([ 0,8,0 ],1,camelname,'VentaId').
+struct_dt_elem_i([ 0,8,0 ],1,basedon,98).
+struct_dt_elem_i([ 0,8,0 ],1,length,4).
+struct_dt_elem_i([ 0,8,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,8,0 ],1,sign,0).
+struct_dt_elem_i([ 0,8,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,8,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,8,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,8,0 ],1,attributeid,'8').
+struct_dt_elem_i([ 0,8,0 ],1,'ExternalName','VentaId').
+struct_dt_elem_i([ 0,8,0 ],1,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,8,0 ],2,name,'Ventahorafecha').
+struct_dt_elem_i([ 0,8,0 ],2,camelname,'VentaHoraFecha').
+struct_dt_elem_i([ 0,8,0 ],2,length,8).
+struct_dt_elem_i([ 0,8,0 ],2,decimals,5).
+struct_dt_elem_i([ 0,8,0 ],2,type,[ 12,8,5 ]).
+struct_dt_elem_i([ 0,8,0 ],2,pic,'99/99/99 99:99').
+struct_dt_elem_i([ 0,8,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,8,0 ],2,attributeid,'23').
+struct_dt_elem_i([ 0,8,0 ],2,'ExternalName','VentaHoraFecha').
+struct_dt_elem_i([ 0,8,0 ],2,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,8,0 ],3,name,'Sectorid').
+struct_dt_elem_i([ 0,8,0 ],3,camelname,'SectorId').
+struct_dt_elem_i([ 0,8,0 ],3,basedon,98).
+struct_dt_elem_i([ 0,8,0 ],3,length,4).
+struct_dt_elem_i([ 0,8,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,8,0 ],3,sign,0).
+struct_dt_elem_i([ 0,8,0 ],3,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,8,0 ],3,pic,'ZZZ9').
+struct_dt_elem_i([ 0,8,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,8,0 ],3,attributeid,'5').
+struct_dt_elem_i([ 0,8,0 ],3,'ExternalName','SectorId').
+struct_dt_elem_i([ 0,8,0 ],3,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,8,0 ],4,name,'Eventoid').
+struct_dt_elem_i([ 0,8,0 ],4,camelname,'EventoId').
+struct_dt_elem_i([ 0,8,0 ],4,basedon,98).
+struct_dt_elem_i([ 0,8,0 ],4,length,4).
+struct_dt_elem_i([ 0,8,0 ],4,decimals,0).
+struct_dt_elem_i([ 0,8,0 ],4,sign,0).
+struct_dt_elem_i([ 0,8,0 ],4,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,8,0 ],4,pic,'ZZZ9').
+struct_dt_elem_i([ 0,8,0 ],4,collection,'False').
+struct_dt_elem_i([ 0,8,0 ],4,attributeid,'3').
+struct_dt_elem_i([ 0,8,0 ],4,'ExternalName','EventoId').
+struct_dt_elem_i([ 0,8,0 ],4,'ExternalNamespace','TallerGeneXus').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').

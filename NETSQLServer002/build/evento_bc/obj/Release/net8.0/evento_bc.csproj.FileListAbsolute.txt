@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\evento_bc\bin\Release\net8.0\evento_bc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\evento_bc\obj\Release\net8.0\evento_bc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\evento_bc\obj\Release\net8.0\evento_bc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\evento_bc\obj\Release\net8.0\evento_bc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\evento_bc\obj\Release\net8.0\evento_bc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\evento_bc\obj\Release\net8.0\refint\evento_bc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\evento_bc\obj\Release\net8.0\ref\evento_bc.dll

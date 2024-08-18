@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\eventoinvitacioneswc\bin\Release\net8.0\eventoinvitacioneswc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\eventoinvitacioneswc\obj\Release\net8.0\eventoinvitacioneswc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\eventoinvitacioneswc\obj\Release\net8.0\eventoinvitacioneswc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\eventoinvitacioneswc\obj\Release\net8.0\eventoinvitacioneswc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\eventoinvitacioneswc\obj\Release\net8.0\eventoinvitacioneswc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\eventoinvitacioneswc\obj\Release\net8.0\refint\eventoinvitacioneswc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\eventoinvitacioneswc\obj\Release\net8.0\ref\eventoinvitacioneswc.dll

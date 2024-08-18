@@ -1,0 +1,141 @@
+
+<ReorgSpec>
+<SpecVersion>18_0_10-184260</SpecVersion>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description></Table>
+<ReorgCls>c</ReorgCls>
+<ReorgCode>new</ReorgCode>
+<ReorgMsg>Venta is new</ReorgMsg>
+<ReorgAction>*</ReorgAction>
+<TableAttributes>
+<AttrisInTable>
+<Attribute>
+<AttriId>8</AttriId>
+<AttriName>VentaId</AttriName>
+<Description>Venta Id</Description>
+<TakesValueFrom></TakesValueFrom>
+<OnPrimaryKey>Yes</OnPrimaryKey>
+<AttriType>
+<DataType>N</DataType>
+<Presicion>4</Presicion>
+<Scale>0</Scale>
+<Properties>
+<Property>
+<Name>Autonumber</Name>
+<Value>Yes</Value></Property>
+<Property>
+<Name>Autogenerate</Name>
+<Value>No</Value></Property>
+<Property>
+<Name>AllowNulls</Name>
+<Value>No</Value></Property></Properties></AttriType></Attribute>
+<Attribute>
+<AttriId>23</AttriId>
+<AttriName>VentaHoraFecha</AttriName>
+<Description>Venta Hora Fecha</Description>
+<TakesValueFrom></TakesValueFrom>
+<AttriType>
+<DataType>T</DataType>
+<Presicion>8</Presicion>
+<Scale>5</Scale>
+<Properties>
+<Property>
+<Name>Autonumber</Name>
+<Value>No</Value></Property>
+<Property>
+<Name>Autogenerate</Name>
+<Value>No</Value></Property>
+<Property>
+<Name>AllowNulls</Name>
+<Value>No</Value></Property></Properties></AttriType></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description>
+<TakesValueFrom></TakesValueFrom>
+<AttriType>
+<DataType>N</DataType>
+<Presicion>4</Presicion>
+<Scale>0</Scale>
+<Properties>
+<Property>
+<Name>Autonumber</Name>
+<Value>No</Value></Property>
+<Property>
+<Name>Autogenerate</Name>
+<Value>No</Value></Property>
+<Property>
+<Name>AllowNulls</Name>
+<Value>No</Value></Property></Properties></AttriType></Attribute>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description>
+<TakesValueFrom></TakesValueFrom>
+<AttriType>
+<DataType>N</DataType>
+<Presicion>4</Presicion>
+<Scale>0</Scale>
+<Properties>
+<Property>
+<Name>Autonumber</Name>
+<Value>No</Value></Property>
+<Property>
+<Name>Autogenerate</Name>
+<Value>No</Value></Property>
+<Property>
+<Name>AllowNulls</Name>
+<Value>No</Value></Property></Properties></AttriType></Attribute></AttrisInTable>
+<AttrisNoLongerInTable></AttrisNoLongerInTable>
+<AttrisInManyTables></AttrisInManyTables></TableAttributes>
+<TableIndices>
+<Indices>
+<Index>
+<IndexName>IVENTA</IndexName>
+<IndexType>u</IndexType>
+<IndexAttris>
+<Attribute>
+<AttriId>8</AttriId>
+<AttriName>VentaId</AttriName>
+<Description>Venta Id</Description></Attribute></IndexAttris>
+<IndexExistance>AlreadyExist</IndexExistance>
+<Clustered>Yes</Clustered></Index>
+<Index>
+<IndexName>IVENTA1</IndexName>
+<IndexType>d</IndexType>
+<IndexAttris>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></IndexAttris>
+<IndexExistance>AlreadyExist</IndexExistance>
+<Clustered>No</Clustered></Index></Indices></TableIndices>
+<FKConstraints>
+<FKConstraint>
+<ChangeType>none</ChangeType>
+<Table>
+<TableId>3</TableId>
+<TableName>EventoSector</TableName>
+<Description>EventoSector</Description></Table>
+<Attributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></Attributes></FKConstraint></FKConstraints>
+<Statements>
+<Statement>CREATE TABLE [Venta] ([VentaId] smallint NOT NULL IDENTITY(1,1), [VentaHoraFecha] datetime NOT NULL , [SectorId] smallint NOT NULL , [EventoId] smallint NOT NULL , PRIMARY KEY([VentaId])) </Statement>
+<Statement>CREATE NONCLUSTERED INDEX [IVENTA1] ON [Venta] ([EventoId] ,[SectorId] )</Statement>
+<Statement>ALTER TABLE [Venta] ADD CONSTRAINT [IVENTA1] FOREIGN KEY ([EventoId], [SectorId]) REFERENCES [EventoSector] ([EventoId], [SectorId])</Statement></Statements>
+<NeedReorganizationProgram>False</NeedReorganizationProgram>
+<Warnings></Warnings>
+<Errors></Errors></ReorgSpec>

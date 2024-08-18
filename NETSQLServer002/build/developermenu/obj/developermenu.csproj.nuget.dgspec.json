@@ -1,0 +1,4545 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\developermenu\\developermenu.csproj": {}
+  },
+  "projects": {
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\actualizarprecio\\actualizarprecio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\actualizarprecio\\actualizarprecio.csproj",
+        "projectName": "actualizarprecio",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\actualizarprecio\\actualizarprecio.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\actualizarprecio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\administrardatos\\administrardatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\administrardatos\\administrardatos.csproj",
+        "projectName": "administrardatos",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\administrardatos\\administrardatos.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\administrardatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\agenerarticketpdf\\agenerarticketpdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\agenerarticketpdf\\agenerarticketpdf.csproj",
+        "projectName": "agenerarticketpdf",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\agenerarticketpdf\\agenerarticketpdf.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\agenerarticketpdf\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoconciertosporfecha\\alistadoconciertosporfecha.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoconciertosporfecha\\alistadoconciertosporfecha.csproj",
+        "projectName": "alistadoconciertosporfecha",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoconciertosporfecha\\alistadoconciertosporfecha.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoconciertosporfecha\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculoconprecios\\alistadoespectaculoconprecios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculoconprecios\\alistadoespectaculoconprecios.csproj",
+        "projectName": "alistadoespectaculoconprecios",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculoconprecios\\alistadoespectaculoconprecios.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculoconprecios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculosportipo\\alistadoespectaculosportipo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculosportipo\\alistadoespectaculosportipo.csproj",
+        "projectName": "alistadoespectaculosportipo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculosportipo\\alistadoespectaculosportipo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculosportipo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\developermenu\\developermenu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\developermenu\\developermenu.csproj",
+        "projectName": "developermenu",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\developermenu\\developermenu.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\developermenu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\actualizarprecio\\actualizarprecio.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\actualizarprecio\\actualizarprecio.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\administrardatos\\administrardatos.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\administrardatos\\administrardatos.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\agenerarticketpdf\\agenerarticketpdf.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\agenerarticketpdf\\agenerarticketpdf.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoconciertosporfecha\\alistadoconciertosporfecha.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoconciertosporfecha\\alistadoconciertosporfecha.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculoconprecios\\alistadoespectaculoconprecios.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculoconprecios\\alistadoespectaculoconprecios.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculosportipo\\alistadoespectaculosportipo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\alistadoespectaculosportipo\\alistadoespectaculosportipo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculoeventowc\\espectaculoeventowc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculoeventowc\\espectaculoeventowc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculogeneral\\espectaculogeneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculogeneral\\espectaculogeneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculosportipo\\espectaculosportipo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculosportipo\\espectaculosportipo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculo\\espectaculo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculo\\espectaculo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventogeneral\\eventogeneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventogeneral\\eventogeneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventoinvitacioneswc\\eventoinvitacioneswc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventoinvitacioneswc\\eventoinvitacioneswc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventosectoreswc\\eventosectoreswc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventosectoreswc\\eventosectoreswc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\evento\\evento.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\evento\\evento.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0031\\gx0031.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0031\\gx0031.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0050\\gx0050.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0050\\gx0050.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitaciongeneral\\invitaciongeneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitaciongeneral\\invitaciongeneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitacion\\invitacion.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitacion\\invitacion.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\listados\\listados.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\listados\\listados.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugareventowc\\lugareventowc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugareventowc\\lugareventowc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugargeneral\\lugargeneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugargeneral\\lugargeneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugarsectorwc\\lugarsectorwc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugarsectorwc\\lugarsectorwc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugar\\lugar.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugar\\lugar.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\mainmenu\\mainmenu.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\mainmenu\\mainmenu.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paisgeneral\\paisgeneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paisgeneral\\paisgeneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paislugarwc\\paislugarwc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paislugarwc\\paislugarwc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\pais\\pais.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\pais\\pais.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorgeneral\\sectorgeneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorgeneral\\sectorgeneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorsectoreswc\\sectorsectoreswc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorsectoreswc\\sectorsectoreswc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sector\\sector.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sector\\sector.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\seleccionfechapanel\\seleccionfechapanel.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\seleccionfechapanel\\seleccionfechapanel.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculoespectaculowc\\tipoespectaculoespectaculowc.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculoespectaculowc\\tipoespectaculoespectaculowc.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculogeneral\\tipoespectaculogeneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculogeneral\\tipoespectaculogeneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculo\\tipoespectaculo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculo\\tipoespectaculo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\ventageneral\\ventageneral.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\ventageneral\\ventageneral.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\venta\\venta.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\venta\\venta.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewespectaculo\\viewespectaculo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewespectaculo\\viewespectaculo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewevento\\viewevento.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewevento\\viewevento.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewinvitacion\\viewinvitacion.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewinvitacion\\viewinvitacion.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewlugar\\viewlugar.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewlugar\\viewlugar.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewpais\\viewpais.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewpais\\viewpais.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewsector\\viewsector.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewsector\\viewsector.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewtipoespectaculo\\viewtipoespectaculo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewtipoespectaculo\\viewtipoespectaculo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewventa\\viewventa.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewventa\\viewventa.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwespectaculo\\wwespectaculo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwespectaculo\\wwespectaculo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwevento\\wwevento.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwevento\\wwevento.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwinvitacion\\wwinvitacion.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwinvitacion\\wwinvitacion.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwlugar\\wwlugar.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwlugar\\wwlugar.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwpais\\wwpais.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwpais\\wwpais.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwsector\\wwsector.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwsector\\wwsector.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwtipoespectaculo\\wwtipoespectaculo.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwtipoespectaculo\\wwtipoespectaculo.csproj"
+              },
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwventa\\wwventa.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwventa\\wwventa.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculoeventowc\\espectaculoeventowc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculoeventowc\\espectaculoeventowc.csproj",
+        "projectName": "espectaculoeventowc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculoeventowc\\espectaculoeventowc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculoeventowc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculogeneral\\espectaculogeneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculogeneral\\espectaculogeneral.csproj",
+        "projectName": "espectaculogeneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculogeneral\\espectaculogeneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculogeneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculosportipo\\espectaculosportipo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculosportipo\\espectaculosportipo.csproj",
+        "projectName": "espectaculosportipo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculosportipo\\espectaculosportipo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculosportipo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculo\\espectaculo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculo\\espectaculo.csproj",
+        "projectName": "espectaculo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculo\\espectaculo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\espectaculo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventogeneral\\eventogeneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventogeneral\\eventogeneral.csproj",
+        "projectName": "eventogeneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventogeneral\\eventogeneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventogeneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventoinvitacioneswc\\eventoinvitacioneswc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventoinvitacioneswc\\eventoinvitacioneswc.csproj",
+        "projectName": "eventoinvitacioneswc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventoinvitacioneswc\\eventoinvitacioneswc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventoinvitacioneswc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventosectoreswc\\eventosectoreswc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventosectoreswc\\eventosectoreswc.csproj",
+        "projectName": "eventosectoreswc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventosectoreswc\\eventosectoreswc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\eventosectoreswc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\evento\\evento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\evento\\evento.csproj",
+        "projectName": "evento",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\evento\\evento.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\evento\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj",
+        "projectName": "general.security.notauthorized",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.security.notauthorized\\general.security.notauthorized.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.security.notauthorized\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj",
+        "projectName": "general.ui.masterprompt",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterprompt\\general.ui.masterprompt.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterprompt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj",
+        "projectName": "general.ui.masterunanimosidebar",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterunanimosidebar\\general.ui.masterunanimosidebar.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\general.ui.masterunanimosidebar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj",
+        "projectName": "GeneXus.Programs.Common",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0031\\gx0031.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0031\\gx0031.csproj",
+        "projectName": "gx0031",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0031\\gx0031.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0031\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0050\\gx0050.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0050\\gx0050.csproj",
+        "projectName": "gx0050",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0050\\gx0050.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\gx0050\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitaciongeneral\\invitaciongeneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitaciongeneral\\invitaciongeneral.csproj",
+        "projectName": "invitaciongeneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitaciongeneral\\invitaciongeneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitaciongeneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitacion\\invitacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitacion\\invitacion.csproj",
+        "projectName": "invitacion",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitacion\\invitacion.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\invitacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\listados\\listados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\listados\\listados.csproj",
+        "projectName": "listados",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\listados\\listados.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\listados\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugareventowc\\lugareventowc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugareventowc\\lugareventowc.csproj",
+        "projectName": "lugareventowc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugareventowc\\lugareventowc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugareventowc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugargeneral\\lugargeneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugargeneral\\lugargeneral.csproj",
+        "projectName": "lugargeneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugargeneral\\lugargeneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugargeneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugarsectorwc\\lugarsectorwc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugarsectorwc\\lugarsectorwc.csproj",
+        "projectName": "lugarsectorwc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugarsectorwc\\lugarsectorwc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugarsectorwc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugar\\lugar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugar\\lugar.csproj",
+        "projectName": "lugar",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugar\\lugar.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\lugar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\mainmenu\\mainmenu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\mainmenu\\mainmenu.csproj",
+        "projectName": "mainmenu",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\mainmenu\\mainmenu.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\mainmenu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paisgeneral\\paisgeneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paisgeneral\\paisgeneral.csproj",
+        "projectName": "paisgeneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paisgeneral\\paisgeneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paisgeneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paislugarwc\\paislugarwc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paislugarwc\\paislugarwc.csproj",
+        "projectName": "paislugarwc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paislugarwc\\paislugarwc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\paislugarwc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\pais\\pais.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\pais\\pais.csproj",
+        "projectName": "pais",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\pais\\pais.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\pais\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorgeneral\\sectorgeneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorgeneral\\sectorgeneral.csproj",
+        "projectName": "sectorgeneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorgeneral\\sectorgeneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorgeneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorsectoreswc\\sectorsectoreswc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorsectoreswc\\sectorsectoreswc.csproj",
+        "projectName": "sectorsectoreswc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorsectoreswc\\sectorsectoreswc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sectorsectoreswc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sector\\sector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sector\\sector.csproj",
+        "projectName": "sector",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sector\\sector.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\sector\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\seleccionfechapanel\\seleccionfechapanel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\seleccionfechapanel\\seleccionfechapanel.csproj",
+        "projectName": "seleccionfechapanel",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\seleccionfechapanel\\seleccionfechapanel.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\seleccionfechapanel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculoespectaculowc\\tipoespectaculoespectaculowc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculoespectaculowc\\tipoespectaculoespectaculowc.csproj",
+        "projectName": "tipoespectaculoespectaculowc",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculoespectaculowc\\tipoespectaculoespectaculowc.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculoespectaculowc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculogeneral\\tipoespectaculogeneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculogeneral\\tipoespectaculogeneral.csproj",
+        "projectName": "tipoespectaculogeneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculogeneral\\tipoespectaculogeneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculogeneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculo\\tipoespectaculo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculo\\tipoespectaculo.csproj",
+        "projectName": "tipoespectaculo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculo\\tipoespectaculo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\tipoespectaculo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\ventageneral\\ventageneral.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\ventageneral\\ventageneral.csproj",
+        "projectName": "ventageneral",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\ventageneral\\ventageneral.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\ventageneral\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\venta\\venta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\venta\\venta.csproj",
+        "projectName": "venta",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\venta\\venta.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\venta\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewespectaculo\\viewespectaculo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewespectaculo\\viewespectaculo.csproj",
+        "projectName": "viewespectaculo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewespectaculo\\viewespectaculo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewespectaculo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewevento\\viewevento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewevento\\viewevento.csproj",
+        "projectName": "viewevento",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewevento\\viewevento.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewevento\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewinvitacion\\viewinvitacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewinvitacion\\viewinvitacion.csproj",
+        "projectName": "viewinvitacion",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewinvitacion\\viewinvitacion.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewinvitacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewlugar\\viewlugar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewlugar\\viewlugar.csproj",
+        "projectName": "viewlugar",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewlugar\\viewlugar.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewlugar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewpais\\viewpais.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewpais\\viewpais.csproj",
+        "projectName": "viewpais",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewpais\\viewpais.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewpais\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewsector\\viewsector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewsector\\viewsector.csproj",
+        "projectName": "viewsector",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewsector\\viewsector.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewsector\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewtipoespectaculo\\viewtipoespectaculo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewtipoespectaculo\\viewtipoespectaculo.csproj",
+        "projectName": "viewtipoespectaculo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewtipoespectaculo\\viewtipoespectaculo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewtipoespectaculo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewventa\\viewventa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewventa\\viewventa.csproj",
+        "projectName": "viewventa",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewventa\\viewventa.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\viewventa\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwespectaculo\\wwespectaculo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwespectaculo\\wwespectaculo.csproj",
+        "projectName": "wwespectaculo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwespectaculo\\wwespectaculo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwespectaculo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwevento\\wwevento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwevento\\wwevento.csproj",
+        "projectName": "wwevento",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwevento\\wwevento.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwevento\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwinvitacion\\wwinvitacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwinvitacion\\wwinvitacion.csproj",
+        "projectName": "wwinvitacion",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwinvitacion\\wwinvitacion.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwinvitacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwlugar\\wwlugar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwlugar\\wwlugar.csproj",
+        "projectName": "wwlugar",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwlugar\\wwlugar.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwlugar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwpais\\wwpais.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwpais\\wwpais.csproj",
+        "projectName": "wwpais",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwpais\\wwpais.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwpais\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwsector\\wwsector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwsector\\wwsector.csproj",
+        "projectName": "wwsector",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwsector\\wwsector.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwsector\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwtipoespectaculo\\wwtipoespectaculo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwtipoespectaculo\\wwtipoespectaculo.csproj",
+        "projectName": "wwtipoespectaculo",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwtipoespectaculo\\wwtipoespectaculo.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwtipoespectaculo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwventa\\wwventa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwventa\\wwventa.csproj",
+        "projectName": "wwventa",
+        "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwventa\\wwventa.csproj",
+        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
+        "outputPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\wwventa\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\NuGet.Config",
+          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "C:\\KBs\\TallerGeneXus\\NETSQLServer002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.30.0, 1.30.0]"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

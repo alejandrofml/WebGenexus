@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\agenerarticketpdf\bin\Release\net8.0\agenerarticketpdf.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\agenerarticketpdf\obj\Release\net8.0\agenerarticketpdf.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\agenerarticketpdf\obj\Release\net8.0\agenerarticketpdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\agenerarticketpdf\obj\Release\net8.0\agenerarticketpdf.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\agenerarticketpdf\obj\Release\net8.0\agenerarticketpdf.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\agenerarticketpdf\obj\Release\net8.0\refint\agenerarticketpdf.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\agenerarticketpdf\obj\Release\net8.0\ref\agenerarticketpdf.dll

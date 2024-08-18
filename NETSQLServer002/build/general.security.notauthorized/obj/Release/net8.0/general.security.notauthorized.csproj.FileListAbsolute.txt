@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.security.notauthorized\bin\Release\net8.0\general.security.notauthorized.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.security.notauthorized\obj\Release\net8.0\general.security.notauthorized.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.security.notauthorized\obj\Release\net8.0\general.security.notauthorized.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.security.notauthorized\obj\Release\net8.0\general.security.notauthorized.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.security.notauthorized\obj\Release\net8.0\general.security.notauthorized.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.security.notauthorized\obj\Release\net8.0\refint\general.security.notauthorized.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.security.notauthorized\obj\Release\net8.0\ref\general.security.notauthorized.dll

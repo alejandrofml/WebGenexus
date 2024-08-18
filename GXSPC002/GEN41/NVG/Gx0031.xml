@@ -1,0 +1,123 @@
+
+<ObjectSpec>
+<SpecVersion>18_0_10-184260</SpecVersion>
+<Object>
+<ObjClsGuid>c9584656-94b6-4ccd-890f-332d11fc2c25</ObjClsGuid>
+<ObjCls>13</ObjCls>
+<ObjId>41</ObjId>
+<ObjName>Gx0031</ObjName>
+<ObjDesc>Selection List EventoSector</ObjDesc>
+<ObjPgmName>Gx0031</ObjPgmName>
+<ObjClsName>Web Panel</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings></Warnings>
+<Errors></Errors>
+<Generator>
+<GenId>41</GenId>
+<GenName>Default (.NET)</GenName></Generator>
+<FormClass>HTML</FormClass>
+<Parameters>
+<Parameter>
+<IO>in</IO>
+<Variable>
+<VarId>Peventoid</VarId>
+<VarName>&amp;pEventoId</VarName></Variable></Parameter>
+<Parameter>
+<IO>out</IO>
+<Variable>
+<VarId>Psectorid</VarId>
+<VarName>&amp;pSectorId</VarName></Variable></Parameter></Parameters>
+<StandAloneRules></StandAloneRules>
+<Event>
+<EventName>Start</EventName></Event>
+<Event>
+<EventName>'Toggle'</EventName></Event>
+<Event>
+<EventName>Lblsectoridfilter.Click</EventName></Event>
+<Event>
+<EventName>Load</EventName>
+<LoadMethod>Auto</LoadMethod>
+<ImplicitForEach>
+<LevelType>For Each</LevelType>
+<LevelBeginRow>0</LevelBeginRow>
+<BaseTable>
+<Table>
+<TableId>3</TableId>
+<TableName>EventoSector</TableName>
+<Description>EventoSector</Description></Table></BaseTable>
+<Order>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Token>,</Token>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></Order>
+<Condition></Condition>
+<IndexName>IEVENTOSECTOR</IndexName>
+<LevelOptions></LevelOptions>
+<Optimizations>
+<Optimization>
+<Type>ServerPaging</Type></Optimization></Optimizations>
+<OptimizedWhere>
+<StartFrom>
+<Condition>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Sp></Sp>
+<Token>=</Token>
+<Sp></Sp>
+<Variable>
+<VarId>Peventoid</VarId>
+<VarName>&amp;pEventoId</VarName></Variable></Condition>
+<Condition>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute>
+<Sp></Sp>
+<Token>&gt;=</Token>
+<Sp></Sp>
+<Variable>
+<VarId>Csectorid</VarId>
+<VarName>&amp;cSectorId</VarName></Variable></Condition></StartFrom>
+<LoopWhile>
+<Condition>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Sp></Sp>
+<Token>=</Token>
+<Sp></Sp>
+<Variable>
+<VarId>Peventoid</VarId>
+<VarName>&amp;pEventoId</VarName></Variable></Condition></LoopWhile></OptimizedWhere>
+<NonOptimizedWhere></NonOptimizedWhere>
+<NavigationTree>
+<Table>
+<TableId>3</TableId>
+<TableName>EventoSector</TableName>
+<Description>EventoSector</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas></ImplicitForEach></Event>
+<Event>
+<EventName>Enter</EventName></Event>
+<Suggests></Suggests></ObjectSpec>

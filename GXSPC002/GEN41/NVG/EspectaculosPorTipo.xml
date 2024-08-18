@@ -1,0 +1,95 @@
+
+<ObjectSpec>
+<SpecVersion>18_0_10-184260</SpecVersion>
+<Object>
+<ObjClsGuid>c9584656-94b6-4ccd-890f-332d11fc2c25</ObjClsGuid>
+<ObjCls>13</ObjCls>
+<ObjId>37</ObjId>
+<ObjName>EspectaculosPorTipo</ObjName>
+<ObjDesc>Espectaculos Por Tipo</ObjDesc>
+<ObjPgmName>EspectaculosPorTipo</ObjPgmName>
+<ObjClsName>Web Panel</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings></Warnings>
+<Errors></Errors>
+<Generator>
+<GenId>41</GenId>
+<GenName>Default (.NET)</GenName></Generator>
+<FormClass>HTML</FormClass>
+<Parameters></Parameters>
+<StandAloneRules></StandAloneRules>
+<Event>
+<EventName>Load</EventName>
+<Level>
+<Optimizations></Optimizations>
+<LevelType>For Each</LevelType>
+<LevelBeginRow>2</LevelBeginRow>
+<BaseTable>
+<Table>
+<TableId>9</TableId>
+<TableName>TipoEspectaculo</TableName>
+<Description>Tipo Espectaculo</Description></Table></BaseTable>
+<Order>
+<Attribute>
+<AttriId>2</AttriId>
+<AttriName>TipoEspectaculoId</AttriName>
+<Description>Tipo Espectaculo Id</Description></Attribute></Order>
+<Condition></Condition>
+<IndexName>ITIPOESPECTACULO</IndexName>
+<LevelOptions></LevelOptions>
+<OptimizedWhere>
+<StartFrom>
+<Condition>
+<Token>FirstRecord</Token></Condition></StartFrom>
+<LoopWhile>
+<Condition>
+<Token>NotEndOfTable</Token></Condition></LoopWhile></OptimizedWhere>
+<NonOptimizedWhere></NonOptimizedWhere>
+<JoinLocation>1</JoinLocation>
+<NavigationTree>
+<Table>
+<TableId>9</TableId>
+<TableName>TipoEspectaculo</TableName>
+<Description>Tipo Espectaculo</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>2</AttriId>
+<AttriName>TipoEspectaculoId</AttriName>
+<Description>Tipo Espectaculo Id</Description></Attribute></KeyAttributes>
+<Tables>
+<Table>
+<TableId>9</TableId>
+<TableName>CantidadEspectaculos navigation</TableName>
+<Description>Tipo Espectaculo</Description>
+<RecordsToRead>one</RecordsToRead>
+<JoinType>Outer</JoinType>
+<Tables>
+<Table>
+<TableId>1</TableId>
+<TableName>Espectaculo</TableName>
+<Description>Espectaculo</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>2</AttriId>
+<AttriName>TipoEspectaculoId</AttriName>
+<Description>Tipo Espectaculo Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></Tables></Table></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas></Level></Event>
+<Event>
+<EventName>Enter</EventName>
+<CALL>
+<Object>
+<ObjClsGuid>c9584656-94b6-4ccd-890f-332d11fc2c25</ObjClsGuid>
+<ObjCls>13</ObjCls>
+<ObjId>22</ObjId>
+<ObjName>MainMenu</ObjName>
+<ObjPgmName>MainMenu</ObjPgmName>
+<ObjClsName>Web Panel</ObjClsName></Object>
+<Expression></Expression>
+<IF></IF></CALL></Event>
+<Suggests></Suggests></ObjectSpec>

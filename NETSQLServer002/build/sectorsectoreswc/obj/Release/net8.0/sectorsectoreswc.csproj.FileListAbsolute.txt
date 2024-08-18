@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\sectorsectoreswc\bin\Release\net8.0\sectorsectoreswc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\sectorsectoreswc\obj\Release\net8.0\sectorsectoreswc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\sectorsectoreswc\obj\Release\net8.0\sectorsectoreswc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\sectorsectoreswc\obj\Release\net8.0\sectorsectoreswc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\sectorsectoreswc\obj\Release\net8.0\sectorsectoreswc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\sectorsectoreswc\obj\Release\net8.0\refint\sectorsectoreswc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\sectorsectoreswc\obj\Release\net8.0\ref\sectorsectoreswc.dll

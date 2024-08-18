@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewevento\bin\Release\net8.0\viewevento.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewevento\obj\Release\net8.0\viewevento.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewevento\obj\Release\net8.0\viewevento.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewevento\obj\Release\net8.0\viewevento.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewevento\obj\Release\net8.0\viewevento.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewevento\obj\Release\net8.0\refint\viewevento.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewevento\obj\Release\net8.0\ref\viewevento.dll

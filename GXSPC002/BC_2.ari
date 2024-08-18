@@ -1,0 +1,16 @@
+bc_dt_elem_i([ 0,2,0 ],'Eventoid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Eventohorafecha',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Espectaculoid',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Lugarid',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectorid',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectornombre',readonly,yes).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectornombre',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectorcapacidad',readonly,yes).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectorcapacidad',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectorprecio',readonly,yes).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectorprecio',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 3,5 ] ],'Sectorcupoactual',readonly,yes).
+bc_dt_elem_i([ 0,2,[ 3,6 ] ],'Invitacionid',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 3,6 ] ],'Invitacionnombre',allownulls,no).
+bc_dt_elem_i([ 0,2,[ 3,6 ] ],'Invitacionnominada',allownulls,no).
+ 

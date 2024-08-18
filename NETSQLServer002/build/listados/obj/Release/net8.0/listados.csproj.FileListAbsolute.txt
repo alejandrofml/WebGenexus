@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\listados\bin\Release\net8.0\listados.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\listados\obj\Release\net8.0\listados.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\listados\obj\Release\net8.0\listados.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\listados\obj\Release\net8.0\listados.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\listados\obj\Release\net8.0\listados.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\listados\obj\Release\net8.0\refint\listados.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\listados\obj\Release\net8.0\ref\listados.dll

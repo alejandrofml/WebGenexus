@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwlugar\bin\Release\net8.0\wwlugar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwlugar\obj\Release\net8.0\wwlugar.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwlugar\obj\Release\net8.0\wwlugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwlugar\obj\Release\net8.0\wwlugar.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwlugar\obj\Release\net8.0\wwlugar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwlugar\obj\Release\net8.0\refint\wwlugar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwlugar\obj\Release\net8.0\ref\wwlugar.dll

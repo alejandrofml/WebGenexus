@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewventa\bin\Release\net8.0\viewventa.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewventa\obj\Release\net8.0\viewventa.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewventa\obj\Release\net8.0\viewventa.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewventa\obj\Release\net8.0\viewventa.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewventa\obj\Release\net8.0\viewventa.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewventa\obj\Release\net8.0\refint\viewventa.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewventa\obj\Release\net8.0\ref\viewventa.dll

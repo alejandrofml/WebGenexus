@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\gx0031\bin\Release\net8.0\gx0031.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\gx0031\obj\Release\net8.0\gx0031.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\gx0031\obj\Release\net8.0\gx0031.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\gx0031\obj\Release\net8.0\gx0031.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\gx0031\obj\Release\net8.0\gx0031.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\gx0031\obj\Release\net8.0\refint\gx0031.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\gx0031\obj\Release\net8.0\ref\gx0031.dll

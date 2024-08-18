@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugarsectorwc\bin\Release\net8.0\lugarsectorwc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugarsectorwc\obj\Release\net8.0\lugarsectorwc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugarsectorwc\obj\Release\net8.0\lugarsectorwc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugarsectorwc\obj\Release\net8.0\lugarsectorwc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugarsectorwc\obj\Release\net8.0\lugarsectorwc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugarsectorwc\obj\Release\net8.0\refint\lugarsectorwc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugarsectorwc\obj\Release\net8.0\ref\lugarsectorwc.dll

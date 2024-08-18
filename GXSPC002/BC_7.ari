@@ -1,0 +1,4 @@
+bc_dt_elem_i([ 0,7,0 ],'Tipoespectaculoid',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Tipoespectaculonombre',allownulls,no).
+bc_dt_elem_i([ 0,7,0 ],'Cantidadespectaculos',readonly,yes).
+ 

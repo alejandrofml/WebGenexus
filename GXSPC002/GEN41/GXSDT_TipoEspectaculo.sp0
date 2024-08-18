@@ -1,0 +1,56 @@
+ 
+spec_i([ sdt,[ 0,7,0 ],'TipoEspectaculo','TipoEspectaculo',0,eng,'18_0_10-184260' ]).
+ 
+struct_dt_i([ 0,7,0 ],name,'TipoEspectaculo').
+struct_dt_i([ 0,7,0 ],namespace,'TallerGeneXus').
+struct_dt_i([ 0,7,0 ],significantName,'TipoEspectaculo').
+struct_dt_i([ 0,7,0 ],'ObjName','TipoEspectaculo').
+struct_dt_i([ 0,7,0 ],'ObjDesc','Tipo Espectaculo').
+struct_dt_i([ 0,7,0 ],'ExternalName','TipoEspectaculo').
+struct_dt_i([ 0,7,0 ],'ExternalNamespace','TallerGeneXus').
+struct_dt_i([ 0,7,0 ],key,[ 2 ]).
+struct_dt_i([ 0,7,0 ],lvl,9).
+struct_dt_i([ 0,7,0 ],fullname,'TipoEspectaculo').
+ 
+struct_dt_elem_i([ 0,7,0 ],1,name,'Tipoespectaculoid').
+struct_dt_elem_i([ 0,7,0 ],1,camelname,'TipoEspectaculoId').
+struct_dt_elem_i([ 0,7,0 ],1,basedon,98).
+struct_dt_elem_i([ 0,7,0 ],1,length,4).
+struct_dt_elem_i([ 0,7,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,7,0 ],1,sign,0).
+struct_dt_elem_i([ 0,7,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,7,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,7,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,7,0 ],1,attributeid,'2').
+struct_dt_elem_i([ 0,7,0 ],1,'ExternalName','TipoEspectaculoId').
+struct_dt_elem_i([ 0,7,0 ],1,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,7,0 ],2,name,'Tipoespectaculonombre').
+struct_dt_elem_i([ 0,7,0 ],2,camelname,'TipoEspectaculoNombre').
+struct_dt_elem_i([ 0,7,0 ],2,basedon,99).
+struct_dt_elem_i([ 0,7,0 ],2,length,100).
+struct_dt_elem_i([ 0,7,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,7,0 ],2,type,[ 13,100,0 ]).
+struct_dt_elem_i([ 0,7,0 ],2,pic,'').
+struct_dt_elem_i([ 0,7,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,7,0 ],2,attributeid,'12').
+struct_dt_elem_i([ 0,7,0 ],2,'ExternalName','TipoEspectaculoNombre').
+struct_dt_elem_i([ 0,7,0 ],2,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,7,0 ],3,name,'Cantidadespectaculos').
+struct_dt_elem_i([ 0,7,0 ],3,camelname,'CantidadEspectaculos').
+struct_dt_elem_i([ 0,7,0 ],3,length,4).
+struct_dt_elem_i([ 0,7,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,7,0 ],3,sign,0).
+struct_dt_elem_i([ 0,7,0 ],3,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,7,0 ],3,pic,'ZZZ9').
+struct_dt_elem_i([ 0,7,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,7,0 ],3,attributeid,'38').
+struct_dt_elem_i([ 0,7,0 ],3,'ExternalName','CantidadEspectaculos').
+struct_dt_elem_i([ 0,7,0 ],3,'ExternalNamespace','TallerGeneXus').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').

@@ -1,0 +1,177 @@
+ 
+spec_i([ sdt,[ 0,2,0 ],'Evento','Evento',0,eng,'18_0_10-184260' ]).
+ 
+struct_dt_i([ 0,2,0 ],name,'Evento').
+struct_dt_i([ 0,2,0 ],namespace,'TallerGeneXus').
+struct_dt_i([ 0,2,0 ],significantName,'Evento').
+struct_dt_i([ 0,2,0 ],'ObjName','Evento').
+struct_dt_i([ 0,2,0 ],'ObjDesc','Evento').
+struct_dt_i([ 0,2,0 ],'ExternalName','Evento').
+struct_dt_i([ 0,2,0 ],'ExternalNamespace','TallerGeneXus').
+struct_dt_i([ 0,2,0 ],key,[ 3 ]).
+struct_dt_i([ 0,2,0 ],lvl,2).
+struct_dt_i([ 0,2,[ 3,5 ] ],name,'Sectores').
+struct_dt_i([ 0,2,[ 3,5 ] ],namespace,'TallerGeneXus.Evento').
+struct_dt_i([ 0,2,[ 3,5 ] ],lvl,3).
+struct_dt_i([ 0,2,[ 3,6 ] ],name,'Invitaciones').
+struct_dt_i([ 0,2,[ 3,6 ] ],namespace,'TallerGeneXus.Evento').
+struct_dt_i([ 0,2,[ 3,6 ] ],lvl,5).
+struct_dt_i([ 0,2,0 ],fullname,'Evento').
+struct_dt_i([ 0,2,[ 3,5 ] ],fullname,'Evento.Sectores').
+struct_dt_i([ 0,2,[ 3,6 ] ],fullname,'Evento.Invitaciones').
+ 
+struct_dt_elem_i([ 0,2,0 ],1,name,'Eventoid').
+struct_dt_elem_i([ 0,2,0 ],1,camelname,'EventoId').
+struct_dt_elem_i([ 0,2,0 ],1,basedon,98).
+struct_dt_elem_i([ 0,2,0 ],1,length,4).
+struct_dt_elem_i([ 0,2,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],1,sign,0).
+struct_dt_elem_i([ 0,2,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],1,attributeid,'3').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalName','EventoId').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,0 ],2,name,'Eventohorafecha').
+struct_dt_elem_i([ 0,2,0 ],2,camelname,'EventoHoraFecha').
+struct_dt_elem_i([ 0,2,0 ],2,length,8).
+struct_dt_elem_i([ 0,2,0 ],2,decimals,5).
+struct_dt_elem_i([ 0,2,0 ],2,type,[ 12,8,5 ]).
+struct_dt_elem_i([ 0,2,0 ],2,pic,'99/99/99 99:99').
+struct_dt_elem_i([ 0,2,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],2,attributeid,'17').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalName','EventoHoraFecha').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,0 ],3,name,'Espectaculoid').
+struct_dt_elem_i([ 0,2,0 ],3,camelname,'EspectaculoId').
+struct_dt_elem_i([ 0,2,0 ],3,basedon,98).
+struct_dt_elem_i([ 0,2,0 ],3,length,4).
+struct_dt_elem_i([ 0,2,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],3,sign,0).
+struct_dt_elem_i([ 0,2,0 ],3,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],3,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],3,attributeid,'1').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalName','EspectaculoId').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,0 ],4,name,'Lugarid').
+struct_dt_elem_i([ 0,2,0 ],4,camelname,'LugarId').
+struct_dt_elem_i([ 0,2,0 ],4,basedon,98).
+struct_dt_elem_i([ 0,2,0 ],4,length,4).
+struct_dt_elem_i([ 0,2,0 ],4,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],4,sign,0).
+struct_dt_elem_i([ 0,2,0 ],4,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],4,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],4,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],4,attributeid,'4').
+struct_dt_elem_i([ 0,2,0 ],4,'ExternalName','LugarId').
+struct_dt_elem_i([ 0,2,0 ],4,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,0 ],5,name,'Sectores').
+struct_dt_elem_i([ 0,2,0 ],5,camelname,'Sectores').
+struct_dt_elem_i([ 0,2,0 ],5,type,[ [ 0,2,[ 3,5 ] ],0,0 ]).
+struct_dt_elem_i([ 0,2,0 ],5,pic,'').
+struct_dt_elem_i([ 0,2,0 ],5,collection,'True').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,name,'Sectorid').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,camelname,'SectorId').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,basedon,98).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,length,4).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,sign,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,attributeid,'5').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,'ExternalName','SectorId').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],1,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,name,'Sectornombre').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,camelname,'SectorNombre').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,basedon,99).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,length,100).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,type,[ 13,100,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,pic,'').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,attributeid,'10').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,'ExternalName','SectorNombre').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],2,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,name,'Sectorcapacidad').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,camelname,'SectorCapacidad').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,length,4).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,sign,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,attributeid,'20').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,'ExternalName','SectorCapacidad').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],3,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,name,'Sectorprecio').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,camelname,'SectorPrecio').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,length,4).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,sign,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,attributeid,'21').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,'ExternalName','SectorPrecio').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],4,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,name,'Sectorcupoactual').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,camelname,'SectorCupoActual').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,length,4).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,sign,0).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,attributeid,'25').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,'ExternalName','SectorCupoActual').
+struct_dt_elem_i([ 0,2,[ 3,5 ] ],5,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,0 ],6,name,'Invitaciones').
+struct_dt_elem_i([ 0,2,0 ],6,camelname,'Invitaciones').
+struct_dt_elem_i([ 0,2,0 ],6,type,[ [ 0,2,[ 3,6 ] ],0,0 ]).
+struct_dt_elem_i([ 0,2,0 ],6,pic,'').
+struct_dt_elem_i([ 0,2,0 ],6,collection,'True').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,name,'Invitacionid').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,camelname,'InvitacionId').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,basedon,98).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,length,4).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,sign,0).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,attributeid,'6').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,'ExternalName','InvitacionId').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],1,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,name,'Invitacionnombre').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,camelname,'InvitacionNombre').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,basedon,99).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,length,100).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,type,[ 13,100,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,pic,'').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,attributeid,'18').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,'ExternalName','InvitacionNombre').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],2,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,name,'Invitacionnominada').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,camelname,'InvitacionNominada').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,length,4).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,decimals,0).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,type,[ 15,4,0 ]).
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,pic,'').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,collection,'False').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,attributeid,'19').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,'ExternalName','InvitacionNominada').
+struct_dt_elem_i([ 0,2,[ 3,6 ] ],3,'ExternalNamespace','TallerGeneXus').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').

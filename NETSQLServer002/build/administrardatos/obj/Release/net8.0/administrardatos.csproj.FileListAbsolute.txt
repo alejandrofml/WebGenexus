@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\administrardatos\bin\Release\net8.0\administrardatos.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\administrardatos\obj\Release\net8.0\administrardatos.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\administrardatos\obj\Release\net8.0\administrardatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\administrardatos\obj\Release\net8.0\administrardatos.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\administrardatos\obj\Release\net8.0\administrardatos.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\administrardatos\obj\Release\net8.0\refint\administrardatos.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\administrardatos\obj\Release\net8.0\ref\administrardatos.dll

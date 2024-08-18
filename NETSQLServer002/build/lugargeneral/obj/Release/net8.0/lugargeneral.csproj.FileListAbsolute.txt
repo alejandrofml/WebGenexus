@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugargeneral\bin\Release\net8.0\lugargeneral.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugargeneral\obj\Release\net8.0\lugargeneral.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugargeneral\obj\Release\net8.0\lugargeneral.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugargeneral\obj\Release\net8.0\lugargeneral.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugargeneral\obj\Release\net8.0\lugargeneral.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugargeneral\obj\Release\net8.0\refint\lugargeneral.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugargeneral\obj\Release\net8.0\ref\lugargeneral.dll

@@ -1,0 +1,7 @@
+bc_dt_elem_i([ 0,1,0 ],'Espectaculoid',allownulls,no).
+bc_dt_elem_i([ 0,1,0 ],'Espectaculonombre',allownulls,no).
+bc_dt_elem_i([ 0,1,0 ],'Espectaculodescripcion',allownulls,no).
+bc_dt_elem_i([ 0,1,0 ],'Espectaculoimagen',allownulls,no).
+bc_dt_elem_i([ 0,1,0 ],'Tipoespectaculoid',allownulls,no).
+bc_dt_elem_i([ 0,1,0 ],'Espectaculoimagen_gxi',allownulls,no).
+ 

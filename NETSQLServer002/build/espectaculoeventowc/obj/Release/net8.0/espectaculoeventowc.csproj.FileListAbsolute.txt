@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculoeventowc\bin\Release\net8.0\espectaculoeventowc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculoeventowc\obj\Release\net8.0\espectaculoeventowc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculoeventowc\obj\Release\net8.0\espectaculoeventowc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculoeventowc\obj\Release\net8.0\espectaculoeventowc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculoeventowc\obj\Release\net8.0\espectaculoeventowc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculoeventowc\obj\Release\net8.0\refint\espectaculoeventowc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculoeventowc\obj\Release\net8.0\ref\espectaculoeventowc.dll

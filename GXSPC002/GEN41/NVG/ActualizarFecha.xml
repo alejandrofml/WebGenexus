@@ -1,0 +1,104 @@
+
+<ObjectSpec>
+<SpecVersion>18_0_10-184260</SpecVersion>
+<Object>
+<ObjClsGuid>84a12160-f59b-4ad7-a683-ea4481ac23e9</ObjClsGuid>
+<ObjCls>1</ObjCls>
+<ObjId>18</ObjId>
+<ObjName>ActualizarFecha</ObjName>
+<ObjDesc>Actualizar Fecha</ObjDesc>
+<ObjPgmName>ActualizarFecha</ObjPgmName>
+<ObjClsName>Procedure</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings>
+<Warning>
+<MsgCode>spc0060</MsgCode>
+<Message>
+<Token>The program may be called by another program and the Commit on Exit property is set to YES</Token></Message></Warning></Warnings>
+<Errors></Errors>
+<OutputDevices>
+<Device>None</Device></OutputDevices>
+<Generator>
+<GenId>41</GenId>
+<GenName>Default (.NET)</GenName></Generator>
+<FormClass>Graphic</FormClass>
+<Parameters>
+<Parameter>
+<IO>in</IO>
+<Variable>
+<VarId>Ventaid</VarId>
+<VarName>&amp;VentaId</VarName></Variable></Parameter></Parameters>
+<Levels>
+<Level>
+<LevelNumber>2</LevelNumber>
+<Optimizations></Optimizations>
+<LevelType>For First</LevelType>
+<LevelBeginRow>1</LevelBeginRow>
+<BaseTable>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description></Table></BaseTable>
+<Order>
+<Attribute>
+<AttriId>8</AttriId>
+<AttriName>VentaId</AttriName>
+<Description>Venta Id</Description></Attribute></Order>
+<Condition></Condition>
+<IndexName>IVENTA</IndexName>
+<LevelOptions></LevelOptions>
+<OptimizedWhere>
+<StartFrom>
+<Condition>
+<Attribute>
+<AttriId>8</AttriId>
+<AttriName>VentaId</AttriName>
+<Description>Venta Id</Description></Attribute>
+<Sp></Sp>
+<Token>=</Token>
+<Sp></Sp>
+<Variable>
+<VarId>Ventaid</VarId>
+<VarName>&amp;VentaId</VarName></Variable></Condition></StartFrom>
+<LoopWhile>
+<Condition>
+<Attribute>
+<AttriId>8</AttriId>
+<AttriName>VentaId</AttriName>
+<Description>Venta Id</Description></Attribute>
+<Sp></Sp>
+<Token>=</Token>
+<Sp></Sp>
+<Variable>
+<VarId>Ventaid</VarId>
+<VarName>&amp;VentaId</VarName></Variable></Condition></LoopWhile></OptimizedWhere>
+<NonOptimizedWhere></NonOptimizedWhere>
+<NavigationTree>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description>
+<Updated>Yes</Updated>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>8</AttriId>
+<AttriName>VentaId</AttriName>
+<Description>Venta Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></NavigationTree>
+<TablesToUpdate>
+<TableToUpdate>
+<Table>
+<TableId>10</TableId>
+<TableName>Venta</TableName>
+<Description>Venta</Description></Table>
+<TableAction>update</TableAction>
+<AttrisToUpdate>
+<Attribute>
+<AttriId>23</AttriId>
+<AttriName>VentaHoraFecha</AttriName>
+<Description>Venta Hora Fecha</Description></Attribute></AttrisToUpdate></TableToUpdate></TablesToUpdate>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas>
+<Levels></Levels></Level></Levels></ObjectSpec>

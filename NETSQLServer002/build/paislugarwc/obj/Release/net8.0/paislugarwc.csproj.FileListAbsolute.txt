@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\paislugarwc\bin\Release\net8.0\paislugarwc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\paislugarwc\obj\Release\net8.0\paislugarwc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\paislugarwc\obj\Release\net8.0\paislugarwc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\paislugarwc\obj\Release\net8.0\paislugarwc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\paislugarwc\obj\Release\net8.0\paislugarwc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\paislugarwc\obj\Release\net8.0\refint\paislugarwc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\paislugarwc\obj\Release\net8.0\ref\paislugarwc.dll

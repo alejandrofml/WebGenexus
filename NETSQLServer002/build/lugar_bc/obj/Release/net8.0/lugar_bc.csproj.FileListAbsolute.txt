@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugar_bc\bin\Release\net8.0\lugar_bc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugar_bc\obj\Release\net8.0\lugar_bc.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugar_bc\obj\Release\net8.0\lugar_bc.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugar_bc\obj\Release\net8.0\lugar_bc.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugar_bc\obj\Release\net8.0\lugar_bc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugar_bc\obj\Release\net8.0\refint\lugar_bc.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\lugar_bc\obj\Release\net8.0\ref\lugar_bc.dll

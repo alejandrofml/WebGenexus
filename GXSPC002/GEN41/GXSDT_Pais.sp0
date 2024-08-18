@@ -1,0 +1,47 @@
+ 
+spec_i([ sdt,[ 0,6,0 ],'Pais','Pais',0,eng,'18_0_10-184260' ]).
+ 
+struct_dt_i([ 0,6,0 ],name,'Pais').
+struct_dt_i([ 0,6,0 ],namespace,'TallerGeneXus').
+struct_dt_i([ 0,6,0 ],significantName,'Pais').
+struct_dt_i([ 0,6,0 ],'ObjName','Pais').
+struct_dt_i([ 0,6,0 ],'ObjDesc','Pais').
+struct_dt_i([ 0,6,0 ],'ExternalName','Pais').
+struct_dt_i([ 0,6,0 ],'ExternalNamespace','TallerGeneXus').
+struct_dt_i([ 0,6,0 ],key,[ 7 ]).
+struct_dt_i([ 0,6,0 ],lvl,8).
+struct_dt_i([ 0,6,0 ],fullname,'Pais').
+ 
+struct_dt_elem_i([ 0,6,0 ],1,name,'Paisid').
+struct_dt_elem_i([ 0,6,0 ],1,camelname,'PaisId').
+struct_dt_elem_i([ 0,6,0 ],1,basedon,98).
+struct_dt_elem_i([ 0,6,0 ],1,length,4).
+struct_dt_elem_i([ 0,6,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,6,0 ],1,sign,0).
+struct_dt_elem_i([ 0,6,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,6,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,6,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,6,0 ],1,attributeid,'7').
+struct_dt_elem_i([ 0,6,0 ],1,'ExternalName','PaisId').
+struct_dt_elem_i([ 0,6,0 ],1,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 0,6,0 ],2,name,'Paisnombre').
+struct_dt_elem_i([ 0,6,0 ],2,camelname,'PaisNombre').
+struct_dt_elem_i([ 0,6,0 ],2,basedon,99).
+struct_dt_elem_i([ 0,6,0 ],2,length,100).
+struct_dt_elem_i([ 0,6,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,6,0 ],2,type,[ 13,100,0 ]).
+struct_dt_elem_i([ 0,6,0 ],2,pic,'').
+struct_dt_elem_i([ 0,6,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,6,0 ],2,attributeid,'11').
+struct_dt_elem_i([ 0,6,0 ],2,'ExternalName','PaisNombre').
+struct_dt_elem_i([ 0,6,0 ],2,'ExternalNamespace','TallerGeneXus').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').

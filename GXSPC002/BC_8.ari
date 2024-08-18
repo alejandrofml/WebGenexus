@@ -1,0 +1,5 @@
+bc_dt_elem_i([ 0,8,0 ],'Ventaid',allownulls,no).
+bc_dt_elem_i([ 0,8,0 ],'Ventahorafecha',allownulls,no).
+bc_dt_elem_i([ 0,8,0 ],'Sectorid',allownulls,no).
+bc_dt_elem_i([ 0,8,0 ],'Eventoid',allownulls,no).
+ 

@@ -1,0 +1,6 @@
+bc_dt_elem_i([ 0,4,0 ],'Lugarid',allownulls,no).
+bc_dt_elem_i([ 0,4,0 ],'Lugarnombre',allownulls,no).
+bc_dt_elem_i([ 0,4,0 ],'Lugardireccion',allownulls,no).
+bc_dt_elem_i([ 0,4,0 ],'Paisid',allownulls,no).
+bc_dt_elem_i([ 0,4,0 ],'Totalespectaculos',readonly,yes).
+ 

@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewlugar\bin\Release\net8.0\viewlugar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewlugar\obj\Release\net8.0\viewlugar.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewlugar\obj\Release\net8.0\viewlugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewlugar\obj\Release\net8.0\viewlugar.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewlugar\obj\Release\net8.0\viewlugar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewlugar\obj\Release\net8.0\refint\viewlugar.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewlugar\obj\Release\net8.0\ref\viewlugar.dll

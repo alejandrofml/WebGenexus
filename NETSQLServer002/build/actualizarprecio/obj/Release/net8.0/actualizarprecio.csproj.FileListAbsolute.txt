@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\actualizarprecio\bin\Release\net8.0\actualizarprecio.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\actualizarprecio\obj\Release\net8.0\actualizarprecio.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\actualizarprecio\obj\Release\net8.0\actualizarprecio.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\actualizarprecio\obj\Release\net8.0\actualizarprecio.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\actualizarprecio\obj\Release\net8.0\actualizarprecio.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\actualizarprecio\obj\Release\net8.0\refint\actualizarprecio.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\actualizarprecio\obj\Release\net8.0\ref\actualizarprecio.dll

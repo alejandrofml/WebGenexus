@@ -1,0 +1,385 @@
+spec_i([ proc,14,'List Programs','General\UI\ListPrograms',78,eng,'18_0_10-184260' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+default_i(e('Output',2,2,'''FIL''')).
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','')).
+rule_i(0,datastore(1,'USER_PASSWORD','')).
+rule_i(0,datastore(1,'USER_ID','')).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','Yes')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','(LocalDB)\MSSQLLocalDB')).
+rule_i(0,datastore(1,'CS_DBNAME','TallerGeneXus')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop(gxtest_ignoreForTestCoverage,'-1')).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','KnowledgeBase')).
+rule_i(0,prop('FullyQualifiedName','General.UI.ListPrograms')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('CS_ORA_FORUPD','UMPV')).
+rule_i(0,prop('Optimize_copy','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('NULLVALUE_AS_NULL','UMPV')).
+rule_i(0,prop('INITIALIZE_NEW','UMPV')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('TRNEND','Yes')).
+rule_i(0,prop('AUTOCENTER','UMPV')).
+rule_i(0,prop('LSTPFOOT','YES')).
+rule_i(0,prop('CANCEL','YES')).
+rule_i(0,prop('CONFIRM','UMPV')).
+rule_i(0,prop('TRNCFM','UMPV')).
+rule_i(0,prop('PRINT_CUST_LAYOUT','UMPV')).
+rule_i(0,prop('OUTPUT','FIL')).
+rule_i(0,prop(idConnectivitySupport,idInherit)).
+rule_i(0,prop(idISPRCWEBSERVICE,'0')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('EXECUTE_IN_NEW_UTL','0')).
+rule_i(0,prop('Theme',o(102,'TallerGeneXus'))).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('CALL_PROTOCOL','INTERNAL')).
+rule_i(0,prop('IsMain','0')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('Folder',o(120,'General\UI'))).
+rule_i(0,prop('ObjDesc','List Programs')).
+rule_i(0,prop('ObjName','ListPrograms')).
+rule_i(0,maingen(41)).
+rule_i(0,parm([ 'Programnames' ],[])).
+rule_i(0,parmio([ [ 'Programnames',out ] ])).
+rule_i(0,output('FIL')).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Output',[ 'Gx_out',char,3,0,'',1,'','',14 ]).
+attri_i('Link',[ link,svchar,1000,0,'',0,link,'',13 ]).
+attri_i('Description',[ description,svchar,256,0,'',0,description,'',12 ]).
+attri_i('Name',[ name,svchar,256,0,'',0,name,'',11 ]).
+attri_i('Programname',[ 'ProgramName',o('General\UI\ProgramNames.ProgramName'),0,0,'',0,'Program Name','',10 ]).
+attri_i('Programnames',[ 'ProgramNames',o(objectcollection('General\UI\ProgramNames.ProgramName')),0,0,'',0,'Program Names','',9 ]).
+attri_i('Isauthorized',[ 'IsAuthorized',boolean,4,0,'',0,'Is Authorized','',8 ]).
+ 
+ 
+ 
+ 
+ 
+function_i(1,'Isauthorized',yes,udp,o(1,'General\Security\IsAuthorized'),[],46,'Isauthorized',[ [ t('Name',23) ] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(51,[ 'GeneXus\ObjectName' ]).
+dom_info_i(8,[ 'GeneXus\Url' ]).
+ 
+ 
+break_i(1,rpt,0,[],[ [],[],[] ]).
+ 
+b_group_i(1,1,lit,0,1,44).
+b_group_i(1,2,lit,0,45,0).
+ 
+b_line_i(0,1,1,cmd,0,[]).
+b_line_i(1,1,1,cmd,0,[]).
+b_line_i(2,1,1,cmd,0,[ t('',107,2,0),t('Programnames',23,0,0),t(=,10,0,0),t([ 'General\UI\ProgramNames',[ t('(',0,2,20),t(')',4,2,21) ],n ],46,0,0) ]).
+b_line_i(3,1,1,cmd,0,[]).
+b_line_i(4,1,1,cmd,0,[ t('',107,4,0),t('Name',23,0,0),t(=,10,0,0),t('"WWEspectaculo"',3,0,0) ]).
+b_line_i(5,1,1,cmd,0,[ t('',107,5,0),t('Description',23,0,0),t(=,10,0,0),t('"Espectáculos"',3,0,0) ]).
+b_line_i(6,1,1,cmd,0,[ t('',107,6,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWEspectaculo'),28,0,0),t(')',4,0,0) ]).
+b_line_i(7,1,1,cmd,0,[ t('',145,7,0),t('''ADDPROGRAM''',3,7,4) ]).
+b_line_i(8,1,1,cmd,0,[]).
+b_line_i(9,1,1,cmd,0,[ t('',107,9,0),t('Name',23,0,0),t(=,10,0,0),t('"WWEvento"',3,0,0) ]).
+b_line_i(10,1,1,cmd,0,[ t('',107,10,0),t('Description',23,0,0),t(=,10,0,0),t('"Eventos"',3,0,0) ]).
+b_line_i(11,1,1,cmd,0,[ t('',107,11,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWEvento'),28,0,0),t(')',4,0,0) ]).
+b_line_i(12,1,1,cmd,0,[ t('',145,12,0),t('''ADDPROGRAM''',3,12,4) ]).
+b_line_i(13,1,1,cmd,0,[]).
+b_line_i(14,1,1,cmd,0,[ t('',107,14,0),t('Name',23,0,0),t(=,10,0,0),t('"WWInvitacion"',3,0,0) ]).
+b_line_i(15,1,1,cmd,0,[ t('',107,15,0),t('Description',23,0,0),t(=,10,0,0),t('"Invitaciones"',3,0,0) ]).
+b_line_i(16,1,1,cmd,0,[ t('',107,16,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWInvitacion'),28,0,0),t(')',4,0,0) ]).
+b_line_i(17,1,1,cmd,0,[ t('',145,17,0),t('''ADDPROGRAM''',3,17,4) ]).
+b_line_i(18,1,1,cmd,0,[]).
+b_line_i(19,1,1,cmd,0,[ t('',107,19,0),t('Name',23,0,0),t(=,10,0,0),t('"WWLugar"',3,0,0) ]).
+b_line_i(20,1,1,cmd,0,[ t('',107,20,0),t('Description',23,0,0),t(=,10,0,0),t('"Lugares"',3,0,0) ]).
+b_line_i(21,1,1,cmd,0,[ t('',107,21,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWLugar'),28,0,0),t(')',4,0,0) ]).
+b_line_i(22,1,1,cmd,0,[ t('',145,22,0),t('''ADDPROGRAM''',3,22,4) ]).
+b_line_i(23,1,1,cmd,0,[]).
+b_line_i(24,1,1,cmd,0,[ t('',107,24,0),t('Name',23,0,0),t(=,10,0,0),t('"WWPais"',3,0,0) ]).
+b_line_i(25,1,1,cmd,0,[ t('',107,25,0),t('Description',23,0,0),t(=,10,0,0),t('"País"',3,0,0) ]).
+b_line_i(26,1,1,cmd,0,[ t('',107,26,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWPais'),28,0,0),t(')',4,0,0) ]).
+b_line_i(27,1,1,cmd,0,[ t('',145,27,0),t('''ADDPROGRAM''',3,27,4) ]).
+b_line_i(28,1,1,cmd,0,[]).
+b_line_i(29,1,1,cmd,0,[ t('',107,29,0),t('Name',23,0,0),t(=,10,0,0),t('"WWSector"',3,0,0) ]).
+b_line_i(30,1,1,cmd,0,[ t('',107,30,0),t('Description',23,0,0),t(=,10,0,0),t('"Sectores"',3,0,0) ]).
+b_line_i(31,1,1,cmd,0,[ t('',107,31,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWSector'),28,0,0),t(')',4,0,0) ]).
+b_line_i(32,1,1,cmd,0,[ t('',145,32,0),t('''ADDPROGRAM''',3,32,4) ]).
+b_line_i(33,1,1,cmd,0,[]).
+b_line_i(34,1,1,cmd,0,[ t('',107,34,0),t('Name',23,0,0),t(=,10,0,0),t('"WWTipoEspectaculo"',3,0,0) ]).
+b_line_i(35,1,1,cmd,0,[ t('',107,35,0),t('Description',23,0,0),t(=,10,0,0),t('"Tipo Espectáculos"',3,0,0) ]).
+b_line_i(36,1,1,cmd,0,[ t('',107,36,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWTipoEspectaculo'),28,0,0),t(')',4,0,0) ]).
+b_line_i(37,1,1,cmd,0,[ t('',145,37,0),t('''ADDPROGRAM''',3,37,4) ]).
+b_line_i(38,1,1,cmd,0,[]).
+b_line_i(39,1,1,cmd,0,[ t('',107,39,0),t('Name',23,0,0),t(=,10,0,0),t('"WWVenta"',3,0,0) ]).
+b_line_i(40,1,1,cmd,0,[ t('',107,40,0),t('Description',23,0,0),t(=,10,0,0),t('"Ventas"',3,0,0) ]).
+b_line_i(41,1,1,cmd,0,[ t('',107,41,0),t('Link',23,0,0),t(=,10,0,0),t('link(',1,0,0),t(o(13,'WWVenta'),28,0,0),t(')',4,0,0) ]).
+b_line_i(42,1,1,cmd,0,[ t('',145,42,0),t('''ADDPROGRAM''',3,42,4) ]).
+b_line_i(43,1,1,cmd,0,[]).
+b_line_i(44,1,1,cmd,0,[ t('',143,44,0),t('''ADDPROGRAM''',3,44,5) ]).
+b_line_i(45,1,2,cmd,0,[ t('',107,45,0),t('Isauthorized',23,0,0),t(=,10,0,0),t('TRUE',40,0,0) ]).
+b_line_i(46,1,2,cmd,0,[ t('',107,46,0),t('Isauthorized',23,0,0),t(=,10,0,0),t('udp(',1,0,0),t('Isauthorized',3,0,0),t(46,3,0,0),t('Name',23,0,0),t(')',4,0,0) ]).
+b_line_i(47,1,2,cmd,0,[ t('',109,47,0),t('(',0,0,5),t('Isauthorized',23,0,6),t(')',4,0,19) ]).
+b_line_i(48,1,2,cmd,0,[ t('',107,48,0),t('Programname',23,0,0),t(=,10,0,0),t([ 'General\UI\ProgramNames.ProgramName',[ t('(',0,48,131),t(')',4,48,132) ],n ],46,0,0) ]).
+b_line_i(49,1,2,cmd,0,[ t('',107,49,0),t([ t('Programname',23,0,0),t('Name',3,0,0) ],29,0,0),t(=,10,0,0),t('Name',23,0,0) ]).
+b_line_i(50,1,2,cmd,0,[ t('',107,50,0),t([ t('Programname',23,0,0),t('Description',3,0,0) ],29,0,0),t(=,10,0,0),t('Description',23,0,0) ]).
+b_line_i(51,1,2,cmd,0,[ t('',107,51,0),t([ t('Programname',23,0,0),t('Link',3,0,0) ],29,0,0),t(=,10,0,0),t('Link',23,0,0) ]).
+b_line_i(52,1,2,cmd,0,[ t('',107,52,0),t([ t('Programnames',23,52,3),t('add(',1,52,17) ],31,52,3),t('Programname',23,0,22),t(')',4,0,34) ]).
+b_line_i(53,1,2,cmd,0,[ t('',111,53,0) ]).
+b_line_i(54,1,2,cmd,0,[ t('',144,54,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+page_layout_i([ 66,0,6 ]).
+ 
+ 
+ 
+paper_info_i([ 0,256,'',11909,16834,0,0,0,0,1 ]).
+ 
+ppi_i([ 100,100 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+grid_i(7,15).
+ 
+ 
+ 
+form_class_i(1,'Graphic').
+ 
+ 
+ 
+ 
+calling_main_i(13,22).
+ 
+ 
+ 
+ 
+var_prop_i(2,'Name',idBasedOn,51,v).
+var_prop_i(2,'Description',idBasedOn,51,v).
+var_prop_i(2,'Link',idBasedOn,8,v).
+var_prop_i(2,'Link','AttRegEx','^((?:[a-zA-Z]+:(//)?)?((?:(?:[a-zA-Z]([a-zA-Z0-9$\-_@&+!*"''(),]|%[0-9a-fA-F]{2})*)(?:\.(?:([a-zA-Z0-9$\-_@&+!*"''(),]|%[0-9a-fA-F]{2})*))*)|(?:(\d{1,3}\.){3}\d{1,3}))(?::\d+)?(?:/([a-zA-Z0-9$\-_@.&+!*"''(),=;: ]|%[0-9a-fA-F]{2})+)*/?(?:[#?](?:[a-zA-Z0-9$\-_@.&+!*"''(),=;: /]|%[0-9a-fA-F]{2})*)?)?\s*$',d).
+var_prop_i(2,'Link','AttValidationFailedMsg','GXM_DoesNotMatchRegExp',d).
+ 
+ 
+ 
+ 
+ 
+struct_dt_i([ 26,61,0 ],name,'General\UI\ProgramNames').
+struct_dt_i([ 26,61,0 ],namespace,'TallerGeneXus').
+struct_dt_i([ 26,61,0 ],'ObjName','ProgramNames').
+struct_dt_i([ 26,61,0 ],'ObjDesc','Program Names').
+struct_dt_i([ 26,61,0 ],'ExternalName','ProgramNames').
+struct_dt_i([ 26,61,0 ],'ExternalNamespace','TallerGeneXus').
+struct_dt_i([ 26,61,0 ],'JsonInputFormat','JsonInputWrapped').
+struct_dt_i([ 26,61,0 ],collection,'True').
+struct_dt_i([ 26,61,0 ],datatype,[ 26,61,91 ]).
+struct_dt_i([ 26,61,0 ],'CollectionItemName','ProgramName').
+struct_dt_i([ 26,61,0 ],'XmlName','').
+struct_dt_i([ 26,61,0 ],'XmlCollectionItemName','').
+struct_dt_i([ 26,61,0 ],'XmlNamespace','').
+struct_dt_i([ 26,61,0 ],'CollectionSerialization',idXmlCollectionWrapped).
+struct_dt_i([ 26,61,0 ],'XmlInclude',idXmlIncludeAlways).
+struct_dt_i([ 26,61,0 ],'JsonName','').
+struct_dt_i([ 26,61,0 ],'JsonInclude',idJsonNoProperty).
+struct_dt_i([ 26,61,0 ],'JsonCollectionSerialization',idXmlCollectionWrapped).
+struct_dt_i([ 26,61,91 ],name,'ProgramName').
+struct_dt_i([ 26,61,91 ],namespace,'TallerGeneXus.ProgramNames').
+struct_dt_i([ 26,61,0 ],fullname,'General\UI\ProgramNames').
+struct_dt_i([ 26,61,91 ],fullname,'General\UI\ProgramNames.ProgramName').
+ 
+struct_dt_elem_i([ 26,61,91 ],1,name,'Name').
+struct_dt_elem_i([ 26,61,91 ],1,camelname,'Name').
+struct_dt_elem_i([ 26,61,91 ],1,basedon,51).
+struct_dt_elem_i([ 26,61,91 ],1,length,256).
+struct_dt_elem_i([ 26,61,91 ],1,decimals,0).
+struct_dt_elem_i([ 26,61,91 ],1,type,[ 13,256,0 ]).
+struct_dt_elem_i([ 26,61,91 ],1,pic,'').
+struct_dt_elem_i([ 26,61,91 ],1,collection,'False').
+struct_dt_elem_i([ 26,61,91 ],1,'ExternalName','Name').
+struct_dt_elem_i([ 26,61,91 ],1,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 26,61,91 ],1,'XmlType','Element').
+struct_dt_elem_i([ 26,61,91 ],1,'XmlName','').
+struct_dt_elem_i([ 26,61,91 ],1,'XmlNamespace','').
+struct_dt_elem_i([ 26,61,91 ],1,soaptype,'').
+struct_dt_elem_i([ 26,61,91 ],1,'XmlInclude',idXmlIncludeAlways).
+struct_dt_elem_i([ 26,61,91 ],1,'JsonName','').
+struct_dt_elem_i([ 26,61,91 ],1,'JsonInclude',idJsonEmpty).
+struct_dt_elem_i([ 26,61,91 ],2,name,'Description').
+struct_dt_elem_i([ 26,61,91 ],2,camelname,'Description').
+struct_dt_elem_i([ 26,61,91 ],2,length,255).
+struct_dt_elem_i([ 26,61,91 ],2,decimals,0).
+struct_dt_elem_i([ 26,61,91 ],2,type,[ 13,255,0 ]).
+struct_dt_elem_i([ 26,61,91 ],2,pic,'').
+struct_dt_elem_i([ 26,61,91 ],2,collection,'False').
+struct_dt_elem_i([ 26,61,91 ],2,'ExternalName','Description').
+struct_dt_elem_i([ 26,61,91 ],2,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 26,61,91 ],2,'XmlType','Element').
+struct_dt_elem_i([ 26,61,91 ],2,'XmlName','').
+struct_dt_elem_i([ 26,61,91 ],2,'XmlNamespace','').
+struct_dt_elem_i([ 26,61,91 ],2,soaptype,'').
+struct_dt_elem_i([ 26,61,91 ],2,'XmlInclude',idXmlIncludeAlways).
+struct_dt_elem_i([ 26,61,91 ],2,'JsonName','').
+struct_dt_elem_i([ 26,61,91 ],2,'JsonInclude',idJsonEmpty).
+struct_dt_elem_i([ 26,61,91 ],3,name,'Link').
+struct_dt_elem_i([ 26,61,91 ],3,camelname,'Link').
+struct_dt_elem_i([ 26,61,91 ],3,basedon,8).
+struct_dt_elem_i([ 26,61,91 ],3,length,1000).
+struct_dt_elem_i([ 26,61,91 ],3,decimals,0).
+struct_dt_elem_i([ 26,61,91 ],3,type,[ 13,1000,0 ]).
+struct_dt_elem_i([ 26,61,91 ],3,pic,'').
+struct_dt_elem_i([ 26,61,91 ],3,collection,'False').
+struct_dt_elem_i([ 26,61,91 ],3,'ExternalName','Link').
+struct_dt_elem_i([ 26,61,91 ],3,'ExternalNamespace','TallerGeneXus').
+struct_dt_elem_i([ 26,61,91 ],3,'XmlType','Element').
+struct_dt_elem_i([ 26,61,91 ],3,'XmlName','').
+struct_dt_elem_i([ 26,61,91 ],3,'XmlNamespace','').
+struct_dt_elem_i([ 26,61,91 ],3,soaptype,'').
+struct_dt_elem_i([ 26,61,91 ],3,'XmlInclude',idXmlIncludeAlways).
+struct_dt_elem_i([ 26,61,91 ],3,'JsonName','').
+struct_dt_elem_i([ 26,61,91 ],3,'JsonInclude',idJsonEmpty).
+struct_dt_elem_i([ 26,61,91 ],3,pic,'ZZZ9').
+ 
+ 
+ 
+ 
+ 
+ 
+pgm_parm_i(proc,13,'GENERAL\SECURITY\ISAUTHORIZED',[ [ svchar,256,0,0 ],[ boolean,4,0,0 ] ],[ [ 'GxObject',in,[] ],[ 'Authorized',out,[] ] ]).
+pgm_parm_i(web,19,'WWVENTA',[],[]).
+pgm_parm_i(web,18,'WWTIPOESPECTACULO',[],[]).
+pgm_parm_i(web,16,'WWSECTOR',[],[]).
+pgm_parm_i(web,17,'WWPAIS',[],[]).
+pgm_parm_i(web,15,'WWLUGAR',[],[]).
+pgm_parm_i(web,14,'WWINVITACION',[],[]).
+pgm_parm_i(web,13,'WWEVENTO',[],[]).
+pgm_parm_i(web,5,'WWESPECTACULO',[],[]).
+ 
+pgm_callprotocol_i(proc,14,'GENERAL\UI\LISTPROGRAMS','INTERNAL','Unsecure').
+pgm_callprotocol_i(proc,13,'GENERAL\SECURITY\ISAUTHORIZED','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,19,'WWVENTA','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,18,'WWTIPOESPECTACULO','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,16,'WWSECTOR','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,17,'WWPAIS','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,15,'WWLUGAR','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,14,'WWINVITACION','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,13,'WWEVENTO','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,5,'WWESPECTACULO','INTERNAL','Unsecure').
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus','AssemblyName','GeneXus.dll').
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

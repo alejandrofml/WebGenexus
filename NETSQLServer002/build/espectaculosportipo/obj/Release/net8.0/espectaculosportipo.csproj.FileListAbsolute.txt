@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculosportipo\bin\Release\net8.0\espectaculosportipo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculosportipo\obj\Release\net8.0\espectaculosportipo.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculosportipo\obj\Release\net8.0\espectaculosportipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculosportipo\obj\Release\net8.0\espectaculosportipo.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculosportipo\obj\Release\net8.0\espectaculosportipo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculosportipo\obj\Release\net8.0\refint\espectaculosportipo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\espectaculosportipo\obj\Release\net8.0\ref\espectaculosportipo.dll

@@ -1,0 +1,4782 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportLog>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>General.Page</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>General.TabCode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>General.UI.ProgramNames</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>General.UI.TransactionContext</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>General.Security.IsAuthorized</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Warning</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>General.UI.ListPrograms</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>General.Security.NotAuthorized</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>General</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.Common.UI</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.Common.Configuration</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.Common.Notifications</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.Common</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.Client</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.Social</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.Server</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.SD.Synchronization</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.SD.iOS</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.SD.Store</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.SD.Notifications</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.SD.Media</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.SD.Offline</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.SD</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.OAuth.v2</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus.OAuth</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXus.Common.Deprecated</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXus.Common.GoogleDirections</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXus.Common.DirectionsServices</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXus.SD.Store.Purchases</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXus.OAuth.v2.SDTs</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.Configuration.StorageProviderType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.Notifications.FilterRelationType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.Notifications.FilterOperation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.Notifications.TargetType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.Notifications.NotificationBadgeType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.ColorScheme</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.MapType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.TransportType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.RuntimeEnvironment</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.LogLevel</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.DirectionsServiceProviders</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.DynamicCallOption</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.LocationAccuracyAuthorization</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Common.LocationAccuracy</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Client.SocketStatus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Store.StoreProductType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Store.StorePurchaseStatus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Store.StorePurchasePlatform</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Store.StorePurchaseState</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Media.MediaMetadataKey</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Media.MediaStreamType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Media.VideoFormat</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Media.DeviceFolder</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Media.SaveMode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.Offline.ResultCode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.DeviceAuthenticationPolicy</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.CardDetectionMode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.CreditCardType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.RegionStatus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.FetchStatus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.OneTimeCode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.MobileSettingsOptions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SD.MobileSettings</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.OAuth.v2.AccessTokenProvider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.ProgressIndicatorType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.MessageTypes</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Url</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.PushNotificationPriority</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.APIAuthorizationStatus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Geolocation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Address</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SmartDeviceType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.EventAction</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.EventData</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.EventStatus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.EventErrors</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CameraAPIQuality</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.AudioAPISessionType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.MediaDuration</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.PlaybackState</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.MediaFinishReason</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.ObjectName</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Email</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Phone</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Time</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.ApplicationState</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.BarcodeType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.NetworkAPIConnectionType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.RegionState</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.BeaconProximity</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Rotation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Permission</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.IMEMode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Encoding</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Timezones</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Effect</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CallType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CryptoEncryptAlgorithm</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CryptoHashAlgorithm</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CryptoSignAlgorithm</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.TrnMode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Component</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Html</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.RecentLinksOptions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CallTargetSize</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.EventExecution</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.SynchronizationReceiveResult</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.HttpMethod</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.HttpAuthenticationType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CommonCallTarget</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.FlexDirection</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.FlexWrap</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.FlexJustifyContent</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.FlexAlignItems</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.FlexAlignContent</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.CompareKind</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.VerticalPosition</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.HorizontalPosition</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.ServiceProtocol</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXus.Protocol</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.GeolocationInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.GeolocationProximityAlert</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.GeolocationPickerParameters</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.DirectionsRequestParameters</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Route</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Notifications.Configuration</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Notifications.ConfigurationProperty</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Notifications.Notification</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Notifications.LocalizedText</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Notifications.Event</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Notifications.Delivery</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Notifications.Target</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Messages</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.TrackingParameters</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.AnalyticsKeyValue</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.AnalyticsPurchase</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.Directions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.LocationInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.LocationProximityAlert</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.LocationPickerParameters</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.CrashAnalyticsKeyValue</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Common.GridState</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Social.FacebookAccessToken</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.Server.NotificationInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Synchronization.SynchronizationEventList</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Synchronization.SynchronizationEventResultList</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Synchronization.SynchronizationInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Store.StorePurchase</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Store.StoreValidationConfig</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Store.PurchaseResult</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Store.StoreProduct</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Store.PurchasesInformation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Store.PurchaseReceiptInformation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Notifications.LocalNotificationsInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.ImagesCollection</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.MediaQueue</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.MediaItem</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.MediaQueueState</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.AudioPlayerSettings</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.AudioPlayerCustomAction</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.MediaItemFinishedInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.Media.VideoConversionParameters</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.LoginExternalAdditionalParameters</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.ContactInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.ScannedBarcodes</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.BeaconProximityAlert</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.BeaconRegion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.BeaconInfo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.BeaconState</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.CardInformation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.MapRegion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.SearchScope</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.SD.MapGeographies</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.OAuth.v2.OAuthAuthorizationConfig</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXus.OAuth.v2.Oauth20AccessTokenSDT</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Geolocation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.UI.Progress</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.UI.Navigation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.UI.Appearance</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.UI.DesignSystem</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Configuration.ConfigurationManager</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Configuration.ExternalStorage</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Clipboard</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Analytics</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Server</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Runtime</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Log</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Maps</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.DynamicCallOld</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.DynamicCall</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.DynamicCallPropertiesJava</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.DynamicCallPropertiesNet</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.AnyObject</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.DynamicCallMethodProperties</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.CrashAnalytics</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Common.Dictionary</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Client.ClientInformation</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Client.ClientStorage</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Client.Socket</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Social.Facebook</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Social.Twitter</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Social.Share</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Social.WeChat</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.Server.Socket</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Synchronization.SynchronizationEvents</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Synchronization.Synchronization</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.iOS.Permissions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Store.StoreManager</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Store.StoreInterop</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Notifications.LocalNotifications</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Media.Camera</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Media.PhotoLibrary</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Media.Audio</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Media.AudioRecorder</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Media.Files</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Media.VideoOperations</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Offline.DataBase</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Actions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Contacts</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Calendar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Interop</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Scanner</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Network</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Beacons</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Search</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.DeepLink</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.WebBrowser</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.DeviceAuthentication</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.AppLifecycle</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.CardScanner</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Printer</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.ARPreview</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Ads</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.MapsOffline</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.RemoteConfig</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>GeneXus.SD.Permissions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.GoogleDirectionsServiceRequest</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.AddDeviceGroups</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.AddDeviceTargetFilter</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.RemoveDeviceTargetFilter</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.RemoveDeviceGroups</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.SendNotification</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.SendEvent</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.SendNotificationTargets</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.SendEventTargets</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.Common.Notifications.SetDeviceTargetMultipleFilters</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.SD.Synchronization.OfflineEventReplicator</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GeneXus.OAuth.v2.RefreshToken</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>General.UI</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>General.Security</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Dropdown</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Select</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Sidebar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Treeview</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Step</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Alert</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Icon</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Controls</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.DesignSystems</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000008</Type>
+		<TypeName>Folder</TypeName>
+		<Name>GeneXusUnanimo.Stencils</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>GeneXusUnanimo.UnanimoWeb</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>GeneXusUnanimo.Unanimo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>GeneXusUnanimo.UnanimoControls</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>GeneXusUnanimo.UnanimoMobile</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>GeneXusUnanimo.UnanimoAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXusUnanimo.Title</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXusUnanimo.Description</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXusUnanimo.Code</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXusUnanimo.AlertType</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>GeneXusUnanimo.AlertPosition</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXusUnanimo.DropdownItems</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXusUnanimo.SelectItems</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXusUnanimo.SidebarItems</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXusUnanimo.TreeviewItems</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>GeneXusUnanimo.StepItems</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1132ac08-290f-4fd1-bd18-64777b7329d1</Type>
+		<TypeName>File</TypeName>
+		<Name>GeneXusUnanimo.Unanimo_SourceSansPro-Light_ttf</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1132ac08-290f-4fd1-bd18-64777b7329d1</Type>
+		<TypeName>File</TypeName>
+		<Name>GeneXusUnanimo.Unanimo_SourceSansPro-Regular_ttf</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1132ac08-290f-4fd1-bd18-64777b7329d1</Type>
+		<TypeName>File</TypeName>
+		<Name>GeneXusUnanimo.Unanimo_SourceSansPro-SemiBold_ttf</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1132ac08-290f-4fd1-bd18-64777b7329d1</Type>
+		<TypeName>File</TypeName>
+		<Name>GeneXusUnanimo.Unanimo_SourceSansPro-Bold_ttf</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1132ac08-290f-4fd1-bd18-64777b7329d1</Type>
+		<TypeName>File</TypeName>
+		<Name>GeneXusUnanimo.Unanimo_chameleon_gxlibrary</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Dropdown</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.DropdownAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Select</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.SelectAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Sidebar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.SidebarAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Treeview</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.TreeviewAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Step</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.StepAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Alert</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.AlertAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Icon</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.IconAngular</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Switch</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Slider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>562f4793-aabe-449f-8821-fc77e550698e</Type>
+		<TypeName>UserControl</TypeName>
+		<Name>GeneXusUnanimo.Button</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>624a8b31-36f0-4292-adba-2d270d1e3537</Type>
+		<TypeName>Stencil</TypeName>
+		<Name>GeneXusUnanimo.Card</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>624a8b31-36f0-4292-adba-2d270d1e3537</Type>
+		<TypeName>Stencil</TypeName>
+		<Name>GeneXusUnanimo.OneColumnCards</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>624a8b31-36f0-4292-adba-2d270d1e3537</Type>
+		<TypeName>Stencil</TypeName>
+		<Name>GeneXusUnanimo.CardWithFooter</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>624a8b31-36f0-4292-adba-2d270d1e3537</Type>
+		<TypeName>Stencil</TypeName>
+		<Name>GeneXusUnanimo.WW_HeaderWithActions</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.show_more</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.error_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.warning_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.success_ico_green</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_first</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_left</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_right</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_last</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.resize_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.close_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_desc</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_asc</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.password_show</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.password_hidden</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.dot_green</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.dot_yellow</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.dot_red</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.dot_purple</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.dot_gray</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.edit_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.delete_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.projects</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.download_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.video</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.calendar_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.prompt_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.featured_green</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.minus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.plus</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.search</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.filter_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.filter_applied</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.filter</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_left_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_right_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.minus_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.plus_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.info_ico_purple</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.filter_outlined_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.resize_column_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_asc_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_desc_light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.refresh</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.settings</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.duplicate</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.genexus_logo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.profile</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.sign_out</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.column_not_fixed</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.success_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.info</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.dark</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.light</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_select</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.arrow_select_default</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.delete</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.send</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.dropdown_avatar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.audio</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.image</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.filter_many_applied</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.upload</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.photo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.favorite</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.favorite_off</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.notification</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.edit</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.grid_view</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.list_view</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.security</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.prompt_ico</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.language</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.featured</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.list_view_white</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>GeneXusUnanimo.resize_column</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c88fffcd-b6f8-0000-8fec-00b5497e2117</Type>
+		<TypeName>Module</TypeName>
+		<Name>GeneXusUnanimo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>Taller3</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>Taller</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+		<TypeName>DesignSystem</TypeName>
+		<Name>TicketTaller</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>General.Page</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>General.TabCode</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>Id</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00972a17-9975-449e-aab1-d26165d51393</Type>
+		<TypeName>Domain</TypeName>
+		<Name>Nombre</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EspectaculoId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>TipoEspectaculoId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EventoId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>LugarId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>InvitacionId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>SectorId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>PaisId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>VentaId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>LugarNombre</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>SectorNombre</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>PaisNombre</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>TipoEspectaculoNombre</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>LugarDireccion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EspectaculoNombre</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EspectaculoDescripcion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EspectaculoImagen</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EventoHoraFecha</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>InvitacionNombre</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>InvitacionNominada</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>SectorCapacidad</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>SectorPrecio</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>TotalEspectaculos</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>VentaHoraFecha</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>LugarTotalEspectaculos</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>SectorCupoActual</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>CupoActual</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>PaisEspectaculoId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>PaisLugarId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EspectaculoEventoId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>LugarEventoId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>PaisEventoId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EventoInvitacionId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>LugarSectorId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>EventoVentaId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>SectorVentaId</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>Nominada</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>SectorFiltrado</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>adbb33c9-0906-4971-833c-998de27e0676</Type>
+		<TypeName>Attribute</TypeName>
+		<Name>CantidadEspectaculos</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>General.UI.ProgramNames</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>General.UI.TransactionContext</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>ListadoDeEspectaculos</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>447527b5-9210-4523-898b-5dccb17be60a</Type>
+		<TypeName>SDT</TypeName>
+		<Name>SectorSDT</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>88313f43-5eb2-0000-0028-e8d9f5bf9588</Type>
+		<TypeName>Language</TypeName>
+		<Name>English</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>88313f43-5eb2-0000-0028-e8d9f5bf9588</Type>
+		<TypeName>Language</TypeName>
+		<Name>Spanish</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>ecececec-dfe0-4a57-ae8f-c6e31b0dcbc0</Type>
+		<TypeName>GeneratorCategory</TypeName>
+		<Name>Default</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>ecececec-dfe0-4a57-ae8f-c6e31b0dcbc0</Type>
+		<TypeName>GeneratorCategory</TypeName>
+		<Name>Frontend</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>ecececec-dfe0-4a57-ae8f-c6e31b0dcbc0</Type>
+		<TypeName>GeneratorCategory</TypeName>
+		<Name>Android</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>ecececec-dfe0-4a57-ae8f-c6e31b0dcbc0</Type>
+		<TypeName>GeneratorCategory</TypeName>
+		<Name>Apple</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>dcdcdcdc-dfe0-4a57-ae8f-c6e31b0dcbc0</Type>
+		<TypeName>DataStoreCategory</TypeName>
+		<Name>Default</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c163e562-42c6-4158-ad83-5b21a14cf30e</Type>
+		<TypeName>ExternalObject</TypeName>
+		<Name>General.GlobalEvents</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>Espectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>Evento</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>Invitacion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>Lugar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>Sector</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>Pais</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>TipoEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+		<TypeName>Transaction</TypeName>
+		<Name>Venta</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>Espectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>Evento</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>EventoSector</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>Invitacion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>Lugar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>Sector</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>Pais</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>TipoEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>857ca50e-7905-0000-0007-c5d9ff2975ec</Type>
+		<TypeName>Table</TypeName>
+		<Name>Venta</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>General.Security.IsAuthorized</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>General.UI.ListPrograms</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>CalcularCupoActual</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>FiltrarSector</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>GenerarTicketPDF</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>ActualizarFecha</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>TicketReport</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>ListadoEspectaculosPorTipo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>ListadoEspectaculoConPrecios</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>ListadoConciertosPorFecha</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>TotalEspectaculos</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+		<TypeName>Procedure</TypeName>
+		<Name>FiltrarSectoresPorLugar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>General.UI.MasterUnanimoSidebar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>General.UI.MasterPrompt</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>General.Security.NotAuthorized</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewEvento</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewInvitacion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewLugar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewPais</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewSector</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewTipoEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>ViewVenta</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWEvento</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWInvitacion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWLugar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWSector</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWPais</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWTipoEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>WWVenta</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>LugarGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>LugarSectorWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>LugarEventoWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>PaisGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>PaisLugarWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>TipoEspectaculoGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>TipoEspectaculoEspectaculoWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>SeleccionFechaPanel</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>EspectaculoGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>EspectaculoEventoWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>MainMenu</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>VentaGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>SectorGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>InvitacionGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>LIstados</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>EspectaculosPorTipo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>AdministrarDatos</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>SectorSectoresWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>EventoGeneral</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>EventoSectoresWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+		<TypeName>WebPanel</TypeName>
+		<Name>EventoInvitacionesWC</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>00000000-0000-0000-0000-000000000006</Type>
+		<TypeName>Category</TypeName>
+		<Name>Main Programs</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>83476c1e-fa72-4229-9930-f51b954fca2d</Type>
+		<TypeName>Pattern Settings</TypeName>
+		<Name>WorkWithForWeb</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebEvento</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebInvitacion</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebLugar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebPais</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebSector</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebTipoEspectaculo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>78cecefe-be7d-4980-86ce-8d6e91fba04b</Type>
+		<TypeName>WorkWith</TypeName>
+		<Name>WorkWithWebVenta</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>General.UI.SidebarItemsDP</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>SectoresPorEvento_DataProvider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>Pais_DataProvider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>Lugar_DataProvider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>TipoEspectaculo_DataProvider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>TicketDataProvider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>TotalEspectaculosDP</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>GetListadoDeEspectaculos</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>2a9e9aba-d2de-4801-ae7f-5e3819222daf</Type>
+		<TypeName>DataProvider</TypeName>
+		<Name>DP_Sectores</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>selectRow</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>logo</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>PageFirst</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>PageLast</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>PageNext</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>PagePrevious</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>280c149c-48b2-4284-a532-0c999df9e006</Type>
+		<TypeName>Diagram</TypeName>
+		<Name>Taller</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>280c149c-48b2-4284-a532-0c999df9e006</Type>
+		<TypeName>Diagram</TypeName>
+		<Name>TallerTabla</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>88313f43-5eb2-0000-0028-e8d9f5bf9588</Type>
+		<TypeName>Language</TypeName>
+		<Name>Spanish</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+</ImportLog>

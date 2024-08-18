@@ -1,0 +1,178 @@
+
+<ObjectSpec>
+<SpecVersion>18_0_10-184260</SpecVersion>
+<Object>
+<ObjClsGuid>84a12160-f59b-4ad7-a683-ea4481ac23e9</ObjClsGuid>
+<ObjCls>1</ObjCls>
+<ObjId>21</ObjId>
+<ObjName>ListadoEspectaculoConPrecios</ObjName>
+<ObjDesc>Listado Espectaculo Con Precios</ObjDesc>
+<ObjPgmName>ListadoEspectaculoConPrecios</ObjPgmName>
+<ObjClsName>Procedure</ObjClsName></Object>
+<Result>genreq</Result>
+<Warnings>
+<Warning>
+<MsgCode>spc0043</MsgCode>
+<Message>
+<Token></Token>
+<Attribute>
+<AttriId>25</AttriId>
+<AttriName>SectorCupoActual</AttriName>
+<Description>Sector Cupo Actual</Description></Attribute>
+<Token> is not instantiated</Token>
+<Token> in group starting at line </Token>
+<Token>15</Token>
+<Token></Token>
+<Token>.</Token></Message></Warning></Warnings>
+<Errors></Errors>
+<OutputDevices>
+<Device>File</Device></OutputDevices>
+<Main>Yes</Main>
+<CallProtocol>HTTP</CallProtocol>
+<Generator>
+<GenId>41</GenId>
+<GenName>Default (.NET)</GenName></Generator>
+<FormClass>Graphic</FormClass>
+<Parameters></Parameters>
+<Levels>
+<Level>
+<LevelNumber>2</LevelNumber>
+<Optimizations></Optimizations>
+<LevelType>For Each</LevelType>
+<LevelBeginRow>10</LevelBeginRow>
+<BaseTable>
+<Table>
+<TableId>2</TableId>
+<TableName>Evento</TableName>
+<Description>Evento</Description></Table></BaseTable>
+<Order>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></Order>
+<Condition></Condition>
+<IndexName>IEVENTO</IndexName>
+<LevelOptions></LevelOptions>
+<OptimizedWhere>
+<StartFrom>
+<Condition>
+<Token>FirstRecord</Token></Condition></StartFrom>
+<LoopWhile>
+<Condition>
+<Token>NotEndOfTable</Token></Condition></LoopWhile></OptimizedWhere>
+<NonOptimizedWhere></NonOptimizedWhere>
+<JoinLocation>1</JoinLocation>
+<NavigationTree>
+<Table>
+<TableId>2</TableId>
+<TableName>Evento</TableName>
+<Description>Evento</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></KeyAttributes>
+<Tables>
+<Table>
+<TableId>1</TableId>
+<TableName>Espectaculo</TableName>
+<Description>Espectaculo</Description>
+<RecordsToRead>one</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>1</AttriId>
+<AttriName>EspectaculoId</AttriName>
+<Description>Espectaculo Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table>
+<Table>
+<TableId>6</TableId>
+<TableName>Lugar</TableName>
+<Description>Lugar</Description>
+<RecordsToRead>one</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>LugarId</AttriName>
+<Description>Lugar Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas>
+<Levels>
+<Level>
+<LevelNumber>3</LevelNumber>
+<Optimizations></Optimizations>
+<LevelType>For Each</LevelType>
+<LevelBeginRow>15</LevelBeginRow>
+<BaseTable>
+<Table>
+<TableId>7</TableId>
+<TableName>Sector</TableName>
+<Description>Sector</Description></Table></BaseTable>
+<Order>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>LugarId</AttriName>
+<Description>Lugar Id</Description></Attribute></Order>
+<Condition></Condition>
+<IndexName>ISECTOR1</IndexName>
+<LevelOptions></LevelOptions>
+<OptimizedWhere>
+<StartFrom>
+<Condition>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>LugarId</AttriName>
+<Description>Lugar Id</Description></Attribute>
+<Sp></Sp>
+<Token>=</Token>
+<Sp></Sp>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>@LugarId</AttriName>
+<Description>Lugar Id</Description></Attribute></Condition></StartFrom>
+<LoopWhile>
+<Condition>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>LugarId</AttriName>
+<Description>Lugar Id</Description></Attribute>
+<Sp></Sp>
+<Token>=</Token>
+<Sp></Sp>
+<Attribute>
+<AttriId>4</AttriId>
+<AttriName>@LugarId</AttriName>
+<Description>Lugar Id</Description></Attribute></Condition></LoopWhile></OptimizedWhere>
+<NonOptimizedWhere>
+<Condition>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>@EventoId</AttriName>
+<Description>Evento Id</Description></Attribute>
+<Sp></Sp>
+<Token>=</Token>
+<Sp></Sp>
+<Attribute>
+<AttriId>3</AttriId>
+<AttriName>@EventoId</AttriName>
+<Description>Evento Id</Description></Attribute></Condition></NonOptimizedWhere>
+<NavigationTree>
+<Table>
+<TableId>7</TableId>
+<TableName>Sector</TableName>
+<Description>Sector</Description>
+<RecordsToRead>many</RecordsToRead>
+<KeyAttributes>
+<Attribute>
+<AttriId>5</AttriId>
+<AttriName>SectorId</AttriName>
+<Description>Sector Id</Description></Attribute></KeyAttributes>
+<Tables></Tables></Table></NavigationTree>
+<TablesToUpdate></TablesToUpdate>
+<Formulas>
+<VerticalFormulas></VerticalFormulas>
+<AggSelFormulas></AggSelFormulas></Formulas>
+<Levels></Levels></Level></Levels></Level></Levels></ObjectSpec>

@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwespectaculo\bin\Release\net8.0\wwespectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwespectaculo\obj\Release\net8.0\wwespectaculo.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwespectaculo\obj\Release\net8.0\wwespectaculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwespectaculo\obj\Release\net8.0\wwespectaculo.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwespectaculo\obj\Release\net8.0\wwespectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwespectaculo\obj\Release\net8.0\refint\wwespectaculo.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwespectaculo\obj\Release\net8.0\ref\wwespectaculo.dll

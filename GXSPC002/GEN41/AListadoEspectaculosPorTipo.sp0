@@ -1,0 +1,440 @@
+spec_i([ proc,20,'Listado Espectaculos Por Tipo','ListadoEspectaculosPorTipo',78,eng,'18_0_10-184260' ]).
+ 
+struct_i(2,1,[],[]).
+struct_i(4,2,[ 2 ],[]).
+struct_i(3,2,[],[]).
+ 
+level_i(2,[ 9,[ [ 9,many ] ],[],[],[ [ [ 9 ],[ 12 ] ] ],[ [ [ 9 ],[] ] ],[ 2 ],'ITIPOESPECTACULO',[],[] ]).
+level_i(4,[ 1,[ [ 1,many ] ],[],[],[ [ [ 1 ],[ 2,1,14 ] ] ],[ [ [ 1 ],[] ] ],[ 1 ],'IESPECTACULO',[ 1,[ [ [],'Espid',1 ] ] ],[] ]).
+level_i(3,[ 2,[ [ 2,many ],[ 1,one ] ],[],[],[ [ [ 2,1 ],[ 2,1,17,14 ] ] ],[ [ [ 2,1 ],[] ] ],[ 3 ],'IEVENTO',[],[] ]).
+ 
+tw_i(2,[]).
+tw_i(4,[]).
+tw_i(3,[ [ 1,[ [ 2,1,1 ] ] ] ]).
+ 
+lwi_i(2,[ [] ]).
+lwi_i(4,[ [ c([ t(2,2),t(=,10),t(2,23) ],[ 2 ]) ] ]).
+lwi_i(3,[ [ c([ t(2,2),t(=,10),t(2,2) ],[ 2 ]) ] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [ [ 9,12 ] ] ]).
+ta_i(4,[ [ [ 1,2 ],[ 1,1 ],[ 1,14 ] ] ]).
+ta_i(3,[ [ [ 1,2 ],[ 2,1 ],[ 2,17 ],[ 1,14 ] ] ]).
+ 
+las_i(2,[ [ 12 ] ]).
+las_i(4,[ [ 2,1,14 ] ]).
+las_i(3,[ [ 2,1,17,14 ] ]).
+ 
+lac_i(2,[ [] ]).
+lac_i(4,[ [] ]).
+lac_i(3,[ [] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+default_i(e('Output',2,2,'''FIL''')).
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','')).
+rule_i(0,datastore(1,'USER_PASSWORD','')).
+rule_i(0,datastore(1,'USER_ID','')).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','Yes')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','(LocalDB)\MSSQLLocalDB')).
+rule_i(0,datastore(1,'CS_DBNAME','TallerGeneXus')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop(gxtest_ignoreForTestCoverage,'0')).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','KnowledgeBase')).
+rule_i(0,prop('FullyQualifiedName','ListadoEspectaculosPorTipo')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('CS_ORA_FORUPD','UMPV')).
+rule_i(0,prop('Optimize_copy','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('NULLVALUE_AS_NULL','UMPV')).
+rule_i(0,prop('INITIALIZE_NEW','UMPV')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('TRNEND','Yes')).
+rule_i(0,prop('AUTOCENTER','UMPV')).
+rule_i(0,prop('LSTPFOOT','YES')).
+rule_i(0,prop('CANCEL','YES')).
+rule_i(0,prop('CONFIRM','UMPV')).
+rule_i(0,prop('TRNCFM','UMPV')).
+rule_i(0,prop('PRINT_CUST_LAYOUT','UMPV')).
+rule_i(0,prop('OUTPUT','FIL')).
+rule_i(0,prop(idConnectivitySupport,idInherit)).
+rule_i(0,prop(idISPRCWEBSERVICE,'0')).
+rule_i(0,prop('AppGenerator','1')).
+rule_i(0,prop('AppLocation','')).
+rule_i(0,prop('AppIcon','')).
+rule_i(0,prop('AppTitle','')).
+rule_i(0,prop('WEB_SECURITY_LEVEL','High')).
+rule_i(0,prop('HTTP_PROTOCOL','Unsecure')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('HTTP_STREAMING_SUPPORT','Off')).
+rule_i(0,prop('COMPRESS_HTML','UMPV')).
+rule_i(0,prop('EXECUTE_IN_NEW_UTL','0')).
+rule_i(0,prop('Theme',o(102,'TallerGeneXus'))).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('CALL_PROTOCOL','HTTP')).
+rule_i(0,prop('IsMain','-1')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('Folder',o(120,'Root Module'))).
+rule_i(0,prop('ObjDesc','Listado Espectaculos Por Tipo')).
+rule_i(0,prop('ObjName','ListadoEspectaculosPorTipo')).
+rule_i(0,maingen(41)).
+rule_i(0,prop('PGMTYPE',main)).
+rule_i(0,output_file(t('ListadoEspectaculosPorTipo',3),t('PDF',3))).
+rule_i(0,output('FIL')).
+ 
+a_i(1,1,f,'Line',[],[ [],[ t(0,3) ] ]).
+a_i(2,3,t,2,[],[ [],'IEVENTO',[] ]).
+a_i(3,3,r,1,[],[ [ [ 2,1,1 ] ],'IESPECTACULO',[] ]).
+a_i(4,4,t,1,[],[ [ [ [],'Espid',1 ] ],'IESPECTACULO',[] ]).
+a_i(5,2,t,9,[],[ [],'ITIPOESPECTACULO',[] ]).
+ 
+v_i(f,i,1,[]).
+v_i(f,o,1,'Line').
+v_i(t,i,2,[]).
+v_i(t,o,2,1).
+v_i(t,o,2,17).
+v_i(r,i,3,1).
+v_i(r,o,3,2).
+v_i(r,o,3,14).
+v_i(t,i,4,'Espid').
+v_i(t,o,4,2).
+v_i(t,o,4,1).
+v_i(t,o,4,14).
+v_i(t,i,5,[]).
+v_i(t,o,5,12).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Output',[ 'Gx_out',char,3,0,'',1,'','',18 ]).
+attri_i(3,[ 'EventoId',int,4,0,'ZZZ9',0,'Evento Id','',0 ]).
+attri_i(2,[ 'TipoEspectaculoId',int,4,0,'ZZZ9',0,'Tipo Espectaculo Id','',0 ]).
+attri_i('Page',[ 'Gx_page',int,6,0,'ZZZZZ9',0,'Page number','',17 ]).
+attri_i('Line',[ 'Gx_line',int,6,0,'ZZZZZ9',0,'Line number','',16 ]).
+attri_i(12,[ 'TipoEspectaculoNombre',svchar,100,0,'',0,'Tipo Espectaculo Nombre','',0 ]).
+attri_i(1,[ 'EspectaculoId',int,4,0,'ZZZ9',0,'Espectaculo Id','',0 ]).
+attri_i(17,[ 'EventoHoraFecha',dtime,8,5,'99/99/99 99:99',0,'Evento Hora Fecha','',0 ]).
+attri_i(14,[ 'EspectaculoNombre',svchar,100,0,'',0,'Espectaculo Nombre','',0 ]).
+attri_i('Eventohorafecha',[ 'EventoHoraFecha',dtime,8,5,'99/99/99 99:99',0,'Evento Hora Fecha','',12 ]).
+attri_i('Tipoespectaculonombre',[ 'TipoEspectaculoNombre',svchar,100,0,'',0,'Tipo Espectaculo Nombre','',11 ]).
+attri_i('Espectaculonombre',[ 'EspectaculoNombre',svchar,100,0,'',0,'Espectaculo Nombre','',10 ]).
+attri_i('Espid',[ 'EspId',int,4,0,'ZZZ9',0,'Esp Id','',9 ]).
+attri_i('Eventonombre',[ 'EventoNombre',svchar,100,0,'',0,'Evento Nombre','',8 ]).
+ 
+table_i(2,[ 'Evento',[ 3,17,1 ],'Evento','Evento' ]).
+table_i(1,[ 'Espectaculo',[ 1,14,2 ],'Espectaculo','Espectaculo' ]).
+table_i(9,[ 'TipoEspectaculo',[ 2,12 ],'Tipo Espectaculo','TipoEspectaculo' ]).
+ 
+index_i(2,[ 'IEVENTO',u,[ 3 ],'IEvento' ]).
+index_i(1,[ 'IESPECTACULO',u,[ 1 ],'IEspectaculo' ]).
+index_i(9,[ 'ITIPOESPECTACULO',u,[ 2 ],'ITipoEspectaculo' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+add_att_i(bits,2,40000,16,'EspectaculoImagen_GXI',[ svchar,2048,0,0 ]).
+ 
+ 
+ 
+ 
+start_i(4,0,0,[ [ [ 1,23,'Espid',= ] ],one ]).
+ 
+end_i(4,0,0,[ [ [ t(1,2),t(=,10),t('Espid',23) ] ] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(99,[ 'Nombre' ]).
+dom_info_i(98,[ 'Id' ]).
+ 
+ 
+break_i(3,nvg,2,[],[ [ 14,17,1 ],[ 2 ],[] ]).
+break_i(4,nvg,2,[],[ [ 14 ],[ 1 ],[] ]).
+break_i(2,nvg,1,[],[ [ 12 ],[],[] ]).
+break_i(1,rpt,0,[],[ [],[],[] ]).
+ 
+b_group_i(1,1,lit,0,1,3).
+b_group_i(1,2,nvg,2,8,8).
+b_group_i(2,1,lit,0,11,13).
+b_group_i(2,2,nvg,3,12,12).
+b_group_i(3,1,lit,0,16,19).
+b_group_i(2,3,lit,0,23,21).
+b_group_i(2,4,nvg,4,19,19).
+b_group_i(4,1,lit,0,25,25).
+b_group_i(2,5,lit,0,28,25).
+b_group_i(1,3,lit,0,29,0).
+ 
+b_line_i(0,1,1,cmd,0,[]).
+b_line_i(1,1,1,cmd,0,[ t('',107,1,0),t('Tipoespectaculonombre',23,0,0),t(=,10,0,0),t('''''',3,0,0) ]).
+b_line_i(2,1,1,cmd,0,[ t('',107,2,0),t('Eventonombre',23,0,0),t(=,10,0,0),t('''''',3,0,0) ]).
+b_line_i(3,1,1,cmd,0,[ t('',107,3,0),t('Eventohorafecha',23,0,0),t(=,10,0,0),t([ t('Datetime',36,0,0),t('now(',1,0,0) ],31,0,0),t(')',4,0,0) ]).
+b_line_i(4,1,1,cmd,0,[]).
+b_line_i(5,1,1,cmd,0,[]).
+b_line_i(6,1,1,pb,0,[ t('Printblockheader',29,0,7) ]).
+b_line_i([ 6,0 ],1,1,line,0,[ t('Espectáculos por Tipo',3,0,0) ]).
+b_line_i([ 6,2 ],1,1,line,2,[ t(' ',3,2,0) ]).
+b_line_i(7,1,1,cmd,3,[]).
+b_line_i(8,2,1,cmd,11,[ t('',121,8,0),t(table,3,8,10),t(9,3,8,10) ]).
+b_line_i(9,2,1,cmd,11,[ t('',107,9,0),t('Tipoespectaculonombre',23,11,0),t(=,10,11,0),t(12,2,11,0) ]).
+b_line_i(10,2,1,pb,11,[ t('Printblocktipoespectaculo',29,11,11) ]).
+b_line_i([ 10,0 ],2,1,line,11,[ t(12,2,0,0) ]).
+b_line_i([ 10,1 ],2,1,line,12,[ t(' ',3,1,0) ]).
+b_line_i(11,2,1,cmd,13,[]).
+b_line_i(12,3,1,cmd,16,[ t('',121,12,0),t(table,3,12,14),t(2,3,12,14) ]).
+b_line_i(14,3,1,cmd,16,[ t('',107,14,0),t('Espid',23,16,0),t(=,10,16,0),t(1,2,16,0) ]).
+b_line_i(15,3,1,cmd,16,[ t('',107,15,0),t('Eventohorafecha',23,16,0),t(=,10,16,0),t(17,2,16,0) ]).
+b_line_i(16,3,1,pb,16,[ t('Printblockevento',29,16,15) ]).
+b_line_i([ 16,0 ],3,1,line,16,[ t(14,2,0,29) ]).
+b_line_i([ 16,2 ],3,1,line,18,[ t(' ',3,2,0) ]).
+b_line_i(17,3,1,cmd,19,[ t('',128,17,0) ]).
+b_line_i(18,2,3,cmd,21,[]).
+b_line_i(19,4,1,cmd,25,[ t('',121,19,0),t(table,3,19,11),t(1,3,19,11) ]).
+b_line_i(21,4,1,cmd,25,[ t('',107,21,0),t('Espectaculonombre',23,25,0),t(=,10,25,0),t(14,2,25,0) ]).
+b_line_i(22,4,1,cmd,25,[ t('',128,22,0) ]).
+b_line_i(23,2,5,cmd,25,[ t('',128,23,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+page_layout_i([ 66,0,6 ]).
+ 
+ 
+ 
+paper_info_i([ 0,256,'',11174,16834,0,0,720,0,1 ]).
+ 
+ppi_i([ 100,100 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lit_i(7,6,t('Espectáculos por Tipo',3),[ font('Tahoma',25,[ bold ]),rect(0,0,827,53),outstyle(none),fill,back(rgb(255,192,203)),align(center),valign(middle),fore(rgb(0,0,0)),border(1),ctlname('Gxreportlabel2'),gxcolor([]) ]).
+lit_i(1,6,window,[ title('Text'),rect(0,0,726,53),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Printblockheader'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(4,10,t(12,2),[ font('Tahoma',15,[ bold ]),rect(0,0,827,40),outstyle(none),fill,back(rgb(250,235,215)),align(center),valign(middle),fore(rgb(0,0,0)),border(1),format(0),ctlname('12'),ctrltype(edit,4),ispwd(0),gxcolor([]) ]).
+lit_i(3,10,window,[ title('Text'),rect(0,0,726,40),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Printblocktipoespectaculo'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+lit_i(1,16,t(14,2),[ font('Tahoma',10,[]),rect(207,13,620,40),outstyle(none),align(left),valign(middle),fore(rgb(0,0,0)),border(1),format(0),ctlname('14'),ctrltype(edit,1),ispwd(0),gxcolor([]) ]).
+lit_i(5,16,window,[ title('Text'),rect(0,0,726,52),outstyle(none),fill,graph,back(rgb(0,0,0)),fore(rgb(0,0,0)),border(0),ctlname('Printblockevento'),align(left),valign(top),gxcolor([]),defgxcolor('BLK','WHT') ]).
+ 
+grid_i(7,15).
+ 
+ 
+ 
+form_class_i(1,'Graphic').
+ 
+ 
+ 
+ 
+calling_main_i(1,20).
+ 
+att_prop_i(2,14,'ExternalName','EspectaculoNombre',d).
+att_prop_i(2,14,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,14,'EmptyAsNull','Yes',d).
+att_prop_i(2,14,idBasedOn,99,v).
+att_prop_i(2,14,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,14,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,14,'AttRegEx','',d).
+att_prop_i(2,14,'AttValidationFailedMsg','',d).
+att_prop_i(2,14,'DownloadOffline','0',d).
+att_prop_i(2,14,'VarServiceExtName','',d).
+att_prop_i(2,14,'FullName','EspectaculoNombre',v).
+att_prop_i(2,17,'ExternalName','EventoHoraFecha',d).
+att_prop_i(2,17,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,17,'EmptyAsNull','Yes',d).
+att_prop_i(2,17,idBasedOn,'',d).
+att_prop_i(2,17,idDATEPRECISION,idDATEPRECISION_SECONDS,d).
+att_prop_i(2,17,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,17,'AttRegEx','',d).
+att_prop_i(2,17,'AttValidationFailedMsg','',d).
+att_prop_i(2,17,idDATEFORMAT,idDATEFORMAT_SHORT,d).
+att_prop_i(2,17,idHOURFORMAT,idHOURFORMAT_HOURMIN,d).
+att_prop_i(2,17,'DownloadOffline','0',d).
+att_prop_i(2,17,'VarServiceExtName','',d).
+att_prop_i(2,17,'FullName','EventoHoraFecha',v).
+att_prop_i(2,1,'ExternalName','EspectaculoId',d).
+att_prop_i(2,1,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,1,'EmptyAsNull','Yes',d).
+att_prop_i(2,1,idBasedOn,98,v).
+att_prop_i(2,1,'AUTONUMBER','-1',d).
+att_prop_i(2,1,'AUTONUMBER_START','1',d).
+att_prop_i(2,1,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,1,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,1,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,1,'AttRegEx','',d).
+att_prop_i(2,1,'AttValidationFailedMsg','',d).
+att_prop_i(2,1,'DownloadOffline','0',d).
+att_prop_i(2,1,'VarServiceExtName','',d).
+att_prop_i(2,1,'FullName','EspectaculoId',v).
+att_prop_i(2,12,'ExternalName','TipoEspectaculoNombre',d).
+att_prop_i(2,12,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,12,'EmptyAsNull','Yes',d).
+att_prop_i(2,12,idBasedOn,99,v).
+att_prop_i(2,12,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,12,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,12,'AttRegEx','',d).
+att_prop_i(2,12,'AttValidationFailedMsg','',d).
+att_prop_i(2,12,'DownloadOffline','0',d).
+att_prop_i(2,12,'VarServiceExtName','',d).
+att_prop_i(2,12,'FullName','TipoEspectaculoNombre',v).
+att_prop_i(2,2,'ExternalName','TipoEspectaculoId',d).
+att_prop_i(2,2,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,2,'EmptyAsNull','Yes',d).
+att_prop_i(2,2,idBasedOn,98,v).
+att_prop_i(2,2,'AUTONUMBER','-1',d).
+att_prop_i(2,2,'AUTONUMBER_START','1',d).
+att_prop_i(2,2,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,2,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,2,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,2,'AttRegEx','',d).
+att_prop_i(2,2,'AttValidationFailedMsg','',d).
+att_prop_i(2,2,'DownloadOffline','0',d).
+att_prop_i(2,2,'VarServiceExtName','',d).
+att_prop_i(2,2,'FullName','TipoEspectaculoId',v).
+att_prop_i(2,3,'ExternalName','EventoId',d).
+att_prop_i(2,3,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,3,'EmptyAsNull','Yes',d).
+att_prop_i(2,3,idBasedOn,98,v).
+att_prop_i(2,3,'AUTONUMBER','-1',d).
+att_prop_i(2,3,'AUTONUMBER_START','1',d).
+att_prop_i(2,3,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,3,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,3,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,3,'AttRegEx','',d).
+att_prop_i(2,3,'AttValidationFailedMsg','',d).
+att_prop_i(2,3,'DownloadOffline','0',d).
+att_prop_i(2,3,'VarServiceExtName','',d).
+att_prop_i(2,3,'FullName','EventoId',v).
+ 
+tbl_prop_i(2,2,'AllDirSuper',[ [ 1,[ 1 ] ] ],v).
+tbl_prop_i(2,1,'AllDirSuper',[ [ 9,[ 2 ] ] ],v).
+tbl_prop_i(2,1,'DirSubor',[ [ 2,[ 1 ] ] ],v).
+tbl_prop_i(2,9,'DirSubor',[ [ 1,[ 2 ] ] ],v).
+tbl_prop_i(2,2,'DirSuper',[ [ 1,[ 1 ] ] ],v).
+tbl_prop_i(2,1,'DirSuper',[ [ 9,[ 2 ] ] ],v).
+ 
+tbl_att_prop_i(2,2,3,'AllowNulls',n).
+tbl_att_prop_i(2,2,3,'AUTONUMBER',y).
+tbl_att_prop_i(2,2,17,'AllowNulls',n).
+tbl_att_prop_i(2,2,1,'AllowNulls',n).
+tbl_att_prop_i(2,1,1,'AllowNulls',n).
+tbl_att_prop_i(2,1,1,'AUTONUMBER',y).
+tbl_att_prop_i(2,1,14,'AllowNulls',n).
+tbl_att_prop_i(2,1,2,'AllowNulls',n).
+tbl_att_prop_i(2,9,2,'AllowNulls',n).
+tbl_att_prop_i(2,9,2,'AUTONUMBER',y).
+tbl_att_prop_i(2,9,12,'AllowNulls',n).
+ 
+var_prop_i(2,'Eventonombre',idBasedOn,99,v).
+var_prop_i(2,'Espid',idBasedOn,98,v).
+var_prop_i(2,'Espectaculonombre',idBasedOn,'',v).
+var_prop_i(2,'Tipoespectaculonombre',idBasedOn,'',v).
+var_prop_i(2,'Eventohorafecha',idBasedOn,'',v).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pgm_callprotocol_i(proc,20,'LISTADOESPECTACULOSPORTIPO','HTTP','Unsecure').
+ 
+ 
+pgm_main_info_i(proc,20,'LISTADOESPECTACULOSPORTIPO',[ 41,'ALISTADOESPECTACULOSPORTIPO','Listado Espectaculos Por Tipo','','','','HTTP' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\venta\bin\Release\net8.0\venta.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\venta\obj\Release\net8.0\venta.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\venta\obj\Release\net8.0\venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\venta\obj\Release\net8.0\venta.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\venta\obj\Release\net8.0\venta.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\venta\obj\Release\net8.0\refint\venta.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\venta\obj\Release\net8.0\ref\venta.dll

@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterprompt\bin\Release\net8.0\general.ui.masterprompt.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net8.0\refint\general.ui.masterprompt.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\general.ui.masterprompt\obj\Release\net8.0\ref\general.ui.masterprompt.dll

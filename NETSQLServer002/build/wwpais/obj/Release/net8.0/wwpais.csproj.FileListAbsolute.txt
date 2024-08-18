@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwpais\bin\Release\net8.0\wwpais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwpais\obj\Release\net8.0\wwpais.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwpais\obj\Release\net8.0\wwpais.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwpais\obj\Release\net8.0\wwpais.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwpais\obj\Release\net8.0\wwpais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwpais\obj\Release\net8.0\refint\wwpais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\wwpais\obj\Release\net8.0\ref\wwpais.dll

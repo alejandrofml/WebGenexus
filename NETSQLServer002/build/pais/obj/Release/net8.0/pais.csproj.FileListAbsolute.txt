@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\pais\bin\Release\net8.0\pais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\pais\obj\Release\net8.0\pais.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\pais\obj\Release\net8.0\pais.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\pais\obj\Release\net8.0\pais.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\pais\obj\Release\net8.0\pais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\pais\obj\Release\net8.0\refint\pais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\pais\obj\Release\net8.0\ref\pais.dll

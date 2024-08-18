@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\seleccionfechapanel\bin\Release\net8.0\seleccionfechapanel.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\seleccionfechapanel\obj\Release\net8.0\seleccionfechapanel.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\seleccionfechapanel\obj\Release\net8.0\seleccionfechapanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\seleccionfechapanel\obj\Release\net8.0\seleccionfechapanel.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\seleccionfechapanel\obj\Release\net8.0\seleccionfechapanel.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\seleccionfechapanel\obj\Release\net8.0\refint\seleccionfechapanel.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\seleccionfechapanel\obj\Release\net8.0\ref\seleccionfechapanel.dll

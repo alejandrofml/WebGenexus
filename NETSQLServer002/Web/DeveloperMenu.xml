@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus18Trial/</Path>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWEspectaculo</ObjName>
+      <ObjDesc>Work With Espectaculo</ObjDesc>
+      <ObjLink>wwespectaculo.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWEvento</ObjName>
+      <ObjDesc>Work With Evento</ObjDesc>
+      <ObjLink>wwevento.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWInvitacion</ObjName>
+      <ObjDesc>Work With Invitacion</ObjDesc>
+      <ObjLink>wwinvitacion.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWLugar</ObjName>
+      <ObjDesc>Work With Lugar</ObjDesc>
+      <ObjLink>wwlugar.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWSector</ObjName>
+      <ObjDesc>Work With Sector</ObjDesc>
+      <ObjLink>wwsector.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWPais</ObjName>
+      <ObjDesc>Work With Pais</ObjDesc>
+      <ObjLink>wwpais.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWTipoEspectaculo</ObjName>
+      <ObjDesc>Work With Tipo Espectaculo</ObjDesc>
+      <ObjLink>wwtipoespectaculo.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WWVenta</ObjName>
+      <ObjDesc>Work With Venta</ObjDesc>
+      <ObjLink>wwventa.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>MainMenu</ObjName>
+      <ObjDesc>Main Menu</ObjDesc>
+      <ObjLink>mainmenu.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>SeleccionFechaPanel</ObjName>
+      <ObjDesc>Seleccion Fecha Panel</ObjDesc>
+      <ObjLink>seleccionfechapanel.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>EspectaculosPorTipo</ObjName>
+      <ObjDesc>Espectaculos Por Tipo</ObjDesc>
+      <ObjLink>espectaculosportipo.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>AdministrarDatos</ObjName>
+      <ObjDesc>Administrar Datos</ObjDesc>
+      <ObjLink>administrardatos.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>LIstados</ObjName>
+      <ObjDesc>LIstados</ObjDesc>
+      <ObjLink>listados.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>ActualizarPrecio</ObjName>
+      <ObjDesc>Actualizar Precio</ObjDesc>
+      <ObjLink>actualizarprecio.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>ListadoEspectaculosPorTipo</ObjName>
+      <ObjDesc>Listado Espectaculos Por Tipo</ObjDesc>
+      <ObjLink>alistadoespectaculosportipo.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>1</ObjCls>
+      <ObjName>ListadoEspectaculoConPrecios</ObjName>
+      <ObjDesc>Listado Espectaculo Con Precios</ObjDesc>
+      <ObjLink>alistadoespectaculoconprecios.aspx</ObjLink>
+   </Object>
+</Objects>

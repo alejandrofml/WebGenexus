@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewpais\bin\Release\net8.0\viewpais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewpais\obj\Release\net8.0\viewpais.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewpais\obj\Release\net8.0\viewpais.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewpais\obj\Release\net8.0\viewpais.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewpais\obj\Release\net8.0\viewpais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewpais\obj\Release\net8.0\refint\viewpais.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\viewpais\obj\Release\net8.0\ref\viewpais.dll

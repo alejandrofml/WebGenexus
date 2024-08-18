@@ -1,0 +1,6 @@
+bc_dt_elem_i([ 0,3,0 ],'Invitacionid',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Invitacionnombre',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Invitacionnominada',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Eventoid',allownulls,no).
+bc_dt_elem_i([ 0,3,0 ],'Sectorid',allownulls,no).
+ 

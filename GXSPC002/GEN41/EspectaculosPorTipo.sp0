@@ -1,0 +1,519 @@
+spec_i([ web,37,'Espectaculos Por Tipo','EspectaculosPorTipo',0,eng,'18_0_10-184260' ]).
+ 
+struct_i(2,1,[],[]).
+struct_i(3,2,[],[]).
+ 
+level_i(2,[ 0,[],[],[],[],[],[],[],[],[] ]).
+level_i(3,[ 9,[ [ 9,many ],[ 2000,one ] ],[],[],[ [ [ 9,2000 ],[ 2,12,38 ] ] ],[ [ [ 9,2000 ],[] ] ],[ 2 ],'ITIPOESPECTACULO',[],[] ]).
+ 
+tw_i(2,[]).
+tw_i(3,[ [ 2000,[ [ 9,oe([ t(2,2) ]),2 ] ] ] ]).
+ 
+lwi_i(2,[ [] ]).
+lwi_i(3,[ [] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [] ]).
+ta_i(3,[ [ [ 9,2 ],[ 9,12 ],[ 2000,se(38,[ [ 2000,38 ] ],[ t('coalesce(',1),t(38,2),t(',',7),t('0',3),t(')',4) ]) ] ] ]).
+ 
+las_i(2,[ [ 'Tipoespectaculonombre','Cantidadespectaculos','Tipid' ] ]).
+las_i(3,[ [ 2,12,38 ] ]).
+ 
+lac_i(2,[ [ 'Tipoespectaculonombre','Cantidadespectaculos','Tipid' ] ]).
+lac_i(3,[ [] ]).
+ 
+ 
+ 
+cls_i([ 2,0 ],[ 2,109 ]).
+ 
+pos_i('Tipoespectaculonombre',[ 1,2,0 ]).
+pos_i('Cantidadespectaculos',[ 1,2,101 ]).
+pos_i('Tipid',[ 1,2,106 ]).
+ 
+repeat_i(2,[ 1,2,[ 'Tipoespectaculonombre','Cantidadespectaculos','Tipid' ],[ 'Tipoespectaculonombre','Cantidadespectaculos','Tipid' ] ]).
+repeat_i(3,[ 1,2,[ 'Tipoespectaculonombre','Cantidadespectaculos','Tipid' ],[] ]).
+ 
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','')).
+rule_i(0,datastore(1,'USER_PASSWORD','')).
+rule_i(0,datastore(1,'USER_ID','')).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','Yes')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','(LocalDB)\MSSQLLocalDB')).
+rule_i(0,datastore(1,'CS_DBNAME','TallerGeneXus')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','KnowledgeBase')).
+rule_i(0,prop('FullyQualifiedName','EspectaculosPorTipo')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('Hint_firstrows','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('REFRESH_TOUT_TRIG','ALL')).
+rule_i(0,prop('REFRESH_TOUT','')).
+rule_i(0,prop('KEY_ENTER','UMPV')).
+rule_i(0,prop('KEY_CANCEL','UMPV')).
+rule_i(0,prop('KEY_REFRESH','UMPV')).
+rule_i(0,prop('KEY_HELP','UMPV')).
+rule_i(0,prop('ASSIGNED_FNC_KEYS','UMPV')).
+rule_i(0,prop('WEB_SECURITY_LEVEL','High')).
+rule_i(0,prop('HTTP_PROTOCOL','Unsecure')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('FIRST_WD_DATEPICKER','UMPV')).
+rule_i(0,prop('WNUM_DATEPICKER','UMPV')).
+rule_i(0,prop(idUSE_WEB_DATEPICKER,'UMPV')).
+rule_i(0,prop('WebUX','SMOOTH')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('WebApplication',idDefault)).
+rule_i(0,prop('COMPRESS_HTML','UMPV')).
+rule_i(0,prop('AUTO_REFRESH','VARS_CHANGE')).
+rule_i(0,prop('CACHE_EXPIRES','')).
+rule_i(0,prop('WEB_AUTO_FOCUS','UMPV')).
+rule_i(0,prop('OnSessionTimeout','Ignore')).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('IsMain','0')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('SHOWMASTERPAGE_POPUP','0')).
+rule_i(0,prop('MasterPage',o(13,'General.UI.MasterUnanimoSidebar'))).
+rule_i(0,prop('WEB_COMP','No')).
+rule_i(0,prop('Theme',o(102,'TallerGeneXus'))).
+rule_i(0,prop('Folder',o(120,'Root Module'))).
+rule_i(0,prop('ObjDesc','Espectaculos Por Tipo')).
+rule_i(0,prop('ObjName','EspectaculosPorTipo')).
+rule_i(0,maingen(41)).
+ 
+a_i(1,3,t,9,[],[ [],'ITIPOESPECTACULO',[] ]).
+a_i(2,3,r,2000,[],[ [ [ 9,oe([ t(2,2) ]),2 ] ],'ITIPOESPECTACULO',[] ]).
+ 
+v_i(t,i,1,[]).
+v_i(t,o,1,2).
+v_i(t,o,1,12).
+v_i(r,i,2,2).
+v_i(r,o,2,38).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i(1,[ 'EspectaculoId',int,4,0,'ZZZ9',0,'Espectaculo Id','',0 ]).
+attri_i(38,[ 'CantidadEspectaculos',int,4,0,'ZZZ9',0,'Cantidad Espectaculos','',0 ]).
+attri_i(2,[ 'TipoEspectaculoId',int,4,0,'ZZZ9',0,'Tipo Espectaculo Id','',0 ]).
+attri_i(12,[ 'TipoEspectaculoNombre',svchar,100,0,'',0,'Tipo Espectaculo Nombre','',0 ]).
+attri_i('Espid',[ 'EspId',int,4,0,'ZZZ9',0,'Esp Id','',11 ]).
+attri_i('Tipnombre',[ 'TipNombre',svchar,100,0,'',0,'Tip Nombre','',10 ]).
+attri_i('Tipid',[ 'TipId',int,4,0,'ZZZ9',0,'Tip Id','',9 ]).
+attri_i('Selectedtipoespectaculoid',[ 'SelectedTipoEspectaculoId',int,4,0,'ZZZ9',0,'Tipo Espectaculo Id','',8 ]).
+attri_i('Tipoespectaculonombre',[ 'TipoEspectaculoNombre',svchar,100,0,'',0,'Tipo Espectaculo Nombre','',7 ]).
+attri_i('Espectaculonombre',[ 'EspectaculoNombre',svchar,100,0,'',0,'Espectaculo Nombre','',6 ]).
+attri_i('Cantidadespectaculos',[ 'CantidadEspectaculos',int,4,0,'ZZZ9',0,'Cantidad Espectaculos','',5 ]).
+ 
+table_i(1,[ 'Espectaculo',[ 1,2 ],'Espectaculo','Espectaculo' ]).
+table_i(2000,[ 'TipoEspectaculo',[ 38,2 ],'Tipo Espectaculo','TipoEspectaculo' ]).
+table_i(9,[ 'TipoEspectaculo',[ 2,12 ],'Tipo Espectaculo','TipoEspectaculo' ]).
+ 
+index_i(1,[ 'IESPECTACULO',u,[ 1 ],'IEspectaculo' ]).
+index_i(9,[ 'ITIPOESPECTACULO',u,[ 2 ],'ITipoEspectaculo' ]).
+index_i(2000,[ 'ITIPOESPECTACULO',u,[ 2 ],'ITipoEspectaculo' ]).
+ 
+lv_i(2,2000,9).
+ 
+ 
+ 
+ 
+nav_view_i(2000,[ 38 ],[ 2 ],[ 2 ],[ [ 2000,[ [ 9,oe([ t(2,2) ]),2 ] ] ] ],[ [ [ 1,[ 'count(',1 ] ],[ 1,2 ] ],n,[ [ 1,many ] ],[],[],[ none ],[],[ 2 ],[] ]).
+ 
+ 
+agg_def_i(38,[ t('0',3) ]).
+ 
+ 
+ 
+ 
+ 
+add_att_i(bits,2,40000,16,'EspectaculoImagen_GXI',[ svchar,2048,0,0 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(99,[ 'Nombre' ]).
+dom_info_i(98,[ 'Id' ]).
+ 
+ 
+break_i(3,nvg,2,[],[ [ 12,2,38 ],[],[] ]).
+break_i(2,nvg,1,[],[ [],[],[] ]).
+ 
+b_group_i(2,1,lit,0,1,1).
+b_group_i(2,2,lit,0,2,1).
+b_group_i(2,3,nvg,3,2,2).
+b_group_i(3,1,lit,0,3,3).
+b_group_i(2,4,lit,0,8,11).
+b_group_i(2,5,lit,0,12,0).
+ 
+b_line_i(1,2,1,cmd,1,[ t('',146,1,0),t('Load',3,1,7) ]).
+b_line_i(2,3,1,cmd,3,[ t('',121,2,0),t(table,3,2,10),t(9,3,2,10) ]).
+b_line_i(3,3,1,cmd,3,[ t('',107,3,0),t('Cantidadespectaculos',23,3,0),t(=,10,3,0),t(38,2,3,0) ]).
+b_line_i(4,3,1,cmd,3,[ t('',107,4,0),t('Tipid',23,3,0),t(=,10,3,0),t(2,2,3,0) ]).
+b_line_i(5,3,1,cmd,3,[ t('',107,5,0),t('Tipoespectaculonombre',23,3,0),t(=,10,3,0),t(12,2,3,0) ]).
+b_line_i(6,3,1,cmd,3,[ t('',107,6,0),t([ t('Grid',3,6,1),t('load(',1,6,6) ],31,6,6),t(')',4,3,12) ]).
+b_line_i(7,3,1,cmd,3,[ t('',128,7,0) ]).
+b_line_i(8,2,4,cmd,7,[ t('',147,8,0) ]).
+b_line_i(11,2,4,cmd,7,[ t('',146,11,0),t('Enter',3,11,7) ]).
+b_line_i(12,2,5,cmd,7,[ t('',104,12,0),t(o(13,'MainMenu'),28,7,2) ]).
+b_line_i(13,2,5,cmd,7,[ t('',147,13,0) ]).
+ 
+sf_break_i(6,2).
+ 
+ 
+ 
+has_load_i(2).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+html_i(2,div(2)).
+ 
+html_sub_i(2,3,html_i(0,div(3))).
+html_sub_i(3,4,html_i(0,div(4))).
+html_sub_i(4,5,html_i(0,div(5))).
+html_sub_i(5,6,html_i(0,s(6))).
+ 
+html_tags_i(1,'Class','form-horizontal Form').
+html_tags_i(2,'data-gx-base-lib',none).
+html_tags_i(2,'data-abstract-form','').
+ 
+html_comp_i(2,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(2,'Class','Section',d,[ str ]).
+html_comp_i(2,'Id','',d,[ str ]).
+html_comp_i(2,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(2,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(2,'Semanticcontent',div,d,[ str ]).
+html_comp_i(2,'Align',left,d,[ str ]).
+html_comp_i(2,'Valign',top,d,[ str ]).
+html_comp_i(3,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(3,'Class','Table',v,[ str ]).
+html_comp_i(3,'Id','Maintable',v,[ str ]).
+html_comp_i(3,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(3,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(3,'Semanticcontent',div,d,[ str ]).
+html_comp_i(3,'Align',left,d,[ str ]).
+html_comp_i(3,'Valign',top,d,[ str ]).
+html_comp_i(4,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(4,'Class',row,v,[ str ]).
+html_comp_i(4,'Id','',d,[ str ]).
+html_comp_i(4,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(4,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(4,'Semanticcontent',div,d,[ str ]).
+html_comp_i(4,'Align',left,d,[ str ]).
+html_comp_i(4,'Valign',top,d,[ str ]).
+html_comp_i(5,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(5,'Class','col-xs-12',v,[ str ]).
+html_comp_i(5,'Id','',d,[ str ]).
+html_comp_i(5,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(5,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(5,'Semanticcontent',div,d,[ str ]).
+html_comp_i(5,'Align',left,d,[ str ]).
+html_comp_i(5,'Valign',top,d,[ str ]).
+html_comp_i(6,'Isabstractlayoutcontrol',-1,v,[ bool ]).
+html_comp_i(6,'Controlname','Grid',v,[ str ]).
+html_comp_i(6,'Controlwhere','',d,[ str ]).
+html_comp_i(6,'Controlunique','',d,[ str ]).
+html_comp_i(6,'Save_state',0,d,[ bool ]).
+html_comp_i(6,'Iddataselector','',d,[ str ]).
+html_comp_i(6,'Sflrender','',d,[ str ]).
+html_comp_i(6,'Class','Grid',v,[ str ]).
+html_comp_i(6,'Prop_emptydatasettext','',d,[ str ]).
+html_comp_i(6,'Autoresize',-1,d,[ bool ]).
+html_comp_i(6,'Gxwidth',measure(0,px),d,[ measure ]).
+html_comp_i(6,'Gxheight',measure(0,px),d,[ measure ]).
+html_comp_i(6,'Maxcols',1,d,[ num ]).
+html_comp_i(6,'Maxrows',0,d,[ num ]).
+html_comp_i(6,'Header','',d,[ str ]).
+html_comp_i(6,'Title','',d,[ str ]).
+html_comp_i(6,'Linescolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(6,'Linesfont',font('Courier New',9,[]),d,[ font ]).
+html_comp_i(6,'Titlecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(6,'Titlefont',font('Microsoft Sans Serif',8,[ bold ]),d,[ font ]).
+html_comp_i(6,'Align',left,d,[ str ]).
+html_comp_i(6,'Cellpadding','1',d,[ str ]).
+html_comp_i(6,'Cellspacing','2',d,[ str ]).
+html_comp_i(6,'Sortable',-1,d,[ bool ]).
+html_comp_i(6,'Allowdrop',0,d,[ bool ]).
+html_comp_i(6,'Allowdrag',0,d,[ bool ]).
+html_comp_i(6,'Notifycontextchange',0,d,[ bool ]).
+html_comp_i(6,'Allowcollapsing',0,d,[ bool ]).
+html_comp_i(6,'Allowselection',0,d,[ bool ]).
+html_comp_i(7,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(7,'Colcount',80,d,[ num ]).
+html_comp_i(7,'Colattid',-7,v,[ num ]).
+html_comp_i(7,'Controlname','&Tipoespectaculonombre',d,[ str ]).
+html_comp_i(7,'Class','Attribute',v,[ str ]).
+html_comp_i(7,'Columnclass','',d,[ str ]).
+html_comp_i(7,'Returnonclick',0,d,[ bool ]).
+html_comp_i(7,'Controltype',2,d,[ num ]).
+html_comp_i(7,'Inputtype',0,d,[ num ]).
+html_comp_i(7,'Editautocomplete',0,d,[ num ]).
+html_comp_i(7,'Autocorrection',-1,d,[ bool ]).
+html_comp_i(7,'Autocapitalization','FirstWord',d,[ str ]).
+html_comp_i(7,'Notifycontextchange',0,d,[ bool ]).
+html_comp_i(7,'Colreadonly',0,d,[ bool ]).
+html_comp_i(7,'Autocomplete',-1,d,[ bool ]).
+html_comp_i(7,'Emptyasnull','Yes',d,[ str ]).
+html_comp_i(7,'Ispassword',0,d,[ bool ]).
+html_comp_i(7,'Colautoresize',-1,d,[ bool ]).
+html_comp_i(7,'Colwidth',measure(0,px),d,[ measure ]).
+html_comp_i(7,'Height',measure(17,px),d,[ measure ]).
+html_comp_i(7,'Collinesfont',font('Courier New',9,[]),d,[ font ]).
+html_comp_i(7,'Collinescolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(7,'Coltitle','Tipo Espectaculo Nombre',d,[ str ]).
+html_comp_i(7,'Coltitlefont',font('Microsoft Sans Serif',8,[ bold ]),d,[ font ]).
+html_comp_i(7,'Coltitlecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(7,'Horizontalalignment',left,d,[ str ]).
+html_comp_i(7,'Gxformat',0,d,[ num ]).
+html_comp_i(7,'Colvisible',-1,d,[ bool ]).
+html_comp_i(7,'Title','',d,[ str ]).
+html_comp_i(7,'Invitemsg','',d,[ str ]).
+html_comp_i(8,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(8,'Colcount',4,d,[ num ]).
+html_comp_i(8,'Colattid',-5,v,[ num ]).
+html_comp_i(8,'Controlname','&Cantidadespectaculos',d,[ str ]).
+html_comp_i(8,'Class','Attribute',v,[ str ]).
+html_comp_i(8,'Columnclass','',d,[ str ]).
+html_comp_i(8,'Returnonclick',0,d,[ bool ]).
+html_comp_i(8,'Controltype',2,d,[ num ]).
+html_comp_i(8,'Inputtype',0,d,[ num ]).
+html_comp_i(8,'Notifycontextchange',0,d,[ bool ]).
+html_comp_i(8,'Colreadonly',0,d,[ bool ]).
+html_comp_i(8,'Autocomplete',-1,d,[ bool ]).
+html_comp_i(8,'Emptyasnull','Yes',d,[ str ]).
+html_comp_i(8,'Ispassword',0,d,[ bool ]).
+html_comp_i(8,'Colautoresize',-1,d,[ bool ]).
+html_comp_i(8,'Colwidth',measure(0,px),d,[ measure ]).
+html_comp_i(8,'Height',measure(17,px),d,[ measure ]).
+html_comp_i(8,'Collinesfont',font('Courier New',9,[]),d,[ font ]).
+html_comp_i(8,'Collinescolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(8,'Coltitle','Cantidad Espectaculos',d,[ str ]).
+html_comp_i(8,'Coltitlefont',font('Microsoft Sans Serif',8,[ bold ]),d,[ font ]).
+html_comp_i(8,'Coltitlecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(8,'Horizontalalignment',right,d,[ str ]).
+html_comp_i(8,'Gxformat',0,d,[ num ]).
+html_comp_i(8,'Colvisible',-1,d,[ bool ]).
+html_comp_i(8,'Title','',d,[ str ]).
+html_comp_i(8,'Invitemsg','',d,[ str ]).
+html_comp_i(9,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(9,'Colcount',4,d,[ num ]).
+html_comp_i(9,'Colattid',-9,v,[ num ]).
+html_comp_i(9,'Controlname','&Tipid',d,[ str ]).
+html_comp_i(9,'Class','attribute-link',v,[ str ]).
+html_comp_i(9,'Columnclass','',d,[ str ]).
+html_comp_i(9,'Returnonclick',0,d,[ bool ]).
+html_comp_i(9,'Controltype',2,d,[ num ]).
+html_comp_i(9,'Inputtype',0,d,[ num ]).
+html_comp_i(9,'Notifycontextchange',0,d,[ bool ]).
+html_comp_i(9,'Colreadonly',0,d,[ bool ]).
+html_comp_i(9,'Autocomplete',-1,d,[ bool ]).
+html_comp_i(9,'Emptyasnull','Yes',d,[ str ]).
+html_comp_i(9,'Ispassword',0,d,[ bool ]).
+html_comp_i(9,'Colautoresize',-1,d,[ bool ]).
+html_comp_i(9,'Colwidth',measure(0,px),d,[ measure ]).
+html_comp_i(9,'Height',measure(17,px),d,[ measure ]).
+html_comp_i(9,'Collinesfont',font('Courier New',9,[]),d,[ font ]).
+html_comp_i(9,'Collinescolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(9,'Coltitle','Id',d,[ str ]).
+html_comp_i(9,'Coltitlefont',font('Microsoft Sans Serif',8,[ bold ]),d,[ font ]).
+html_comp_i(9,'Coltitlecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(9,'Horizontalalignment',right,d,[ str ]).
+html_comp_i(9,'Gxformat',0,d,[ num ]).
+html_comp_i(9,'Colvisible',-1,d,[ bool ]).
+html_comp_i(9,'Title','',d,[ str ]).
+html_comp_i(9,'Invitemsg','',d,[ str ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lit_i(7,1,s(t('Tipoespectaculonombre',23),6),[ ctlname('&Tipoespectaculonombre'),ctrltype(edit,7),pos(7),ispwd(0),e2n(1),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(8,1,s(t('Cantidadespectaculos',23),6),[ ctlname('&Cantidadespectaculos'),ctrltype(edit,8),pos(8),ispwd(0),e2n(1),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(9,1,s(t('Tipid',23),6),[ ctlname('&Tipid'),ctrltype(edit,9),pos(9),ispwd(0),e2n(1),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(6,1,s(6),[ ctlname('Grid'),el([ t('Tipoespectaculonombre',23),t('Cantidadespectaculos',23),t('Tipid',23) ]),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(5,1,div(5),[ ctlname('') ]).
+lit_i(4,1,div(4),[ ctlname('') ]).
+lit_i(3,1,div(3),[ ctlname('Maintable') ]).
+lit_i(2,1,div(2),[ ctlname('') ]).
+lit_i(1,1,window,[ rect(0,0,1000,1000),ctlname('Form') ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+calling_main_i(13,22).
+ 
+att_prop_i(2,12,'ExternalName','TipoEspectaculoNombre',d).
+att_prop_i(2,12,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,12,'EmptyAsNull','Yes',d).
+att_prop_i(2,12,idBasedOn,99,v).
+att_prop_i(2,12,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,12,'DB_NLS_SUPPORT','Yes',d).
+att_prop_i(2,12,'AttRegEx','',d).
+att_prop_i(2,12,'AttValidationFailedMsg','',d).
+att_prop_i(2,12,'DownloadOffline','0',d).
+att_prop_i(2,12,'VarServiceExtName','',d).
+att_prop_i(2,12,'FullName','TipoEspectaculoNombre',v).
+att_prop_i(2,2,'ExternalName','TipoEspectaculoId',d).
+att_prop_i(2,2,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,2,'EmptyAsNull','Yes',d).
+att_prop_i(2,2,idBasedOn,98,v).
+att_prop_i(2,2,'AUTONUMBER','-1',d).
+att_prop_i(2,2,'AUTONUMBER_START','1',d).
+att_prop_i(2,2,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,2,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,2,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,2,'AttRegEx','',d).
+att_prop_i(2,2,'AttValidationFailedMsg','',d).
+att_prop_i(2,2,'DownloadOffline','0',d).
+att_prop_i(2,2,'VarServiceExtName','',d).
+att_prop_i(2,2,'FullName','TipoEspectaculoId',v).
+att_prop_i(2,38,'ExternalName','CantidadEspectaculos',d).
+att_prop_i(2,38,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,38,idBasedOn,'',d).
+att_prop_i(2,38,'DownloadOffline','0',d).
+att_prop_i(2,38,'VarServiceExtName','',d).
+att_prop_i(2,38,'FullName','CantidadEspectaculos',v).
+att_prop_i(2,1,'ExternalName','EspectaculoId',d).
+att_prop_i(2,1,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,1,'EmptyAsNull','Yes',d).
+att_prop_i(2,1,idBasedOn,98,v).
+att_prop_i(2,1,'AUTONUMBER','-1',d).
+att_prop_i(2,1,'AUTONUMBER_START','1',d).
+att_prop_i(2,1,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,1,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,1,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,1,'AttRegEx','',d).
+att_prop_i(2,1,'AttValidationFailedMsg','',d).
+att_prop_i(2,1,'DownloadOffline','0',d).
+att_prop_i(2,1,'VarServiceExtName','',d).
+att_prop_i(2,1,'FullName','EspectaculoId',v).
+ 
+tbl_prop_i(2,1,'AllDirSuper',[ [ 9,[ 2 ] ] ],v).
+tbl_prop_i(2,2000,'DirSubor',[ [ 1,[ 2 ] ] ],v).
+tbl_prop_i(2,9,'DirSubor',[ [ 1,[ 2 ] ] ],v).
+tbl_prop_i(2,1,'DirSuper',[ [ 9,[ 2 ] ] ],v).
+ 
+tbl_att_prop_i(2,1,1,'AllowNulls',n).
+tbl_att_prop_i(2,1,1,'AUTONUMBER',y).
+tbl_att_prop_i(2,1,2,'AllowNulls',n).
+tbl_att_prop_i(2,9,2,'AllowNulls',n).
+tbl_att_prop_i(2,9,2,'AUTONUMBER',y).
+tbl_att_prop_i(2,9,12,'AllowNulls',n).
+tbl_att_prop_i(2,2000,2,'AllowNulls',n).
+tbl_att_prop_i(2,2000,2,'AUTONUMBER',y).
+ 
+var_prop_i(2,'Espectaculonombre',idBasedOn,'',v).
+var_prop_i(2,'Tipoespectaculonombre',idBasedOn,'',v).
+var_prop_i(2,'Selectedtipoespectaculoid',idBasedOn,'',v).
+var_prop_i(2,'Tipid',idBasedOn,98,v).
+var_prop_i(2,'Tipnombre',idBasedOn,99,v).
+var_prop_i(2,'Espid',idBasedOn,98,v).
+ 
+ 
+ 
+a_alias_i([ 'count(',1 ],'CantidadEspectaculos').
+a_alias_i(se(38,[ [ 2000,38 ] ],[ t('coalesce(',1),t(38,2),t(',',7),t('0',3),t(')',4) ]),'CantidadEspectaculos').
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sub_info_i(146,'Load',1,8,[ [ 38,2,12 ],[ 'Cantidadespectaculos','Tipid','Tipoespectaculonombre' ] ]).
+sub_info_i(146,'Enter',11,13,[ [],[] ]).
+ 
+pgm_parm_i(web,22,'MAINMENU',[],[]).
+ 
+pgm_callprotocol_i(web,37,'ESPECTACULOSPORTIPO','INTERNAL','Unsecure').
+pgm_callprotocol_i(web,22,'MAINMENU','INTERNAL','Unsecure').
+ 
+ 
+pgm_main_info_i(web,22,'MAINMENU',[ 41,'MAINMENU','','','','','INTERNAL' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

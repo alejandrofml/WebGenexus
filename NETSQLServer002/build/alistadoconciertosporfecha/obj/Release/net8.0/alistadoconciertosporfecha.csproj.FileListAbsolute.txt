@@ -1,0 +1,7 @@
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoconciertosporfecha\bin\Release\net8.0\alistadoconciertosporfecha.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoconciertosporfecha\obj\Release\net8.0\alistadoconciertosporfecha.csproj.AssemblyReference.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoconciertosporfecha\obj\Release\net8.0\alistadoconciertosporfecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoconciertosporfecha\obj\Release\net8.0\alistadoconciertosporfecha.csproj.CoreCompileInputs.cache
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoconciertosporfecha\obj\Release\net8.0\alistadoconciertosporfecha.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoconciertosporfecha\obj\Release\net8.0\refint\alistadoconciertosporfecha.dll
+C:\KBs\TallerGeneXus\NETSQLServer002\build\alistadoconciertosporfecha\obj\Release\net8.0\ref\alistadoconciertosporfecha.dll

@@ -1,0 +1,284 @@
+spec_i([ proc,18,'Actualizar Fecha','ActualizarFecha',78,eng,'18_0_10-184260' ]).
+ 
+struct_i(2,1,[],[]).
+ 
+level_i(2,[ 10,[ [ 10,many ] ],[],[],[ [ [ 10 ],[ 8,23 ] ] ],[ [ [ 10 ],[] ] ],[ 8 ],'IVENTA',[ 10,[ [ [],'Ventaid',8 ] ] ],[] ]).
+ 
+tw_i(2,[]).
+ 
+lwi_i(2,[ [] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [ [ 10,8 ],[ 10,23 ] ] ]).
+ 
+las_i(2,[ [ 8,23 ] ]).
+ 
+lac_i(2,[ [] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+default_i(e('Output',2,2,'''FIL''')).
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'LOCK_RETRY','10')).
+rule_i(0,datastore(1,'WAIT_RECORD','0')).
+rule_i(0,datastore(1,'ISOLATION_LEVEL','CR')).
+rule_i(0,datastore(1,'SQLSERVER_VERSION','10')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DFT_TMP_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_IDX_TBLSPACE','')).
+rule_i(0,datastore(1,'DFT_TBL_TBLSPACE','')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'SORT_ATTRIBUTES','Yes')).
+rule_i(0,datastore(1,'JRN400','QSQJRN')).
+rule_i(0,datastore(1,'CREATE_SAVF','Yes')).
+rule_i(0,datastore(1,'PGMLIB','')).
+rule_i(0,datastore(1,'DTALIB','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','')).
+rule_i(0,datastore(1,'USER_PASSWORD','')).
+rule_i(0,datastore(1,'USER_ID','')).
+rule_i(0,datastore(1,'TRUSTED_CONNECTION','Yes')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','')).
+rule_i(0,datastore(1,'CS_SERVER','(LocalDB)\MSSQLLocalDB')).
+rule_i(0,datastore(1,'CS_DBNAME','TallerGeneXus')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','sql server')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','com.microsoft.sqlserver.jdbc.SQLServerDriver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',12)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop(gxtest_ignoreForTestCoverage,'0')).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','KnowledgeBase')).
+rule_i(0,prop('FullyQualifiedName','ActualizarFecha')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('CS_ORA_FORUPD','UMPV')).
+rule_i(0,prop('Optimize_copy','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('NULLVALUE_AS_NULL','UMPV')).
+rule_i(0,prop('INITIALIZE_NEW','UMPV')).
+rule_i(0,prop('STD_FUNC_OBJECT','Yes')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('TRNEND','Yes')).
+rule_i(0,prop('AUTOCENTER','UMPV')).
+rule_i(0,prop('LSTPFOOT','YES')).
+rule_i(0,prop('CANCEL','YES')).
+rule_i(0,prop('CONFIRM','UMPV')).
+rule_i(0,prop('TRNCFM','UMPV')).
+rule_i(0,prop('PRINT_CUST_LAYOUT','UMPV')).
+rule_i(0,prop('OUTPUT','FIL')).
+rule_i(0,prop(idConnectivitySupport,idInherit)).
+rule_i(0,prop(idISPRCWEBSERVICE,'0')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('EXECUTE_IN_NEW_UTL','0')).
+rule_i(0,prop('Theme',o(102,'TallerGeneXus'))).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('CALL_PROTOCOL','INTERNAL')).
+rule_i(0,prop('IsMain','0')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('Folder',o(120,'Root Module'))).
+rule_i(0,prop('ObjDesc','Actualizar Fecha')).
+rule_i(0,prop('ObjName','ActualizarFecha')).
+rule_i(0,maingen(41)).
+rule_i(0,parm([ 'Ventaid' ],[])).
+rule_i(0,parmio([ [ 'Ventaid',in ] ])).
+rule_i(0,output('FIL')).
+ 
+a_i(1,2,t,10,[],[ [ [ [],'Ventaid',8 ] ],'IVENTA',[] ]).
+ 
+v_i(t,i,1,'Ventaid').
+v_i(t,o,1,8).
+v_i(t,o,1,23).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Output',[ 'Gx_out',char,3,0,'',1,'','',10 ]).
+attri_i(8,[ 'VentaId',int,4,0,'ZZZ9',0,'Venta Id','',0 ]).
+attri_i(23,[ 'VentaHoraFecha',dtime,8,5,'99/99/99 99:99',0,'Venta Hora Fecha','',0 ]).
+attri_i('Ventaid',[ 'VentaId',int,4,0,'ZZZ9',0,'Venta Id','',8 ]).
+ 
+table_i(10,[ 'Venta',[ 8,23 ],'Venta','Venta' ]).
+ 
+index_i(10,[ 'IVENTA',u,[ 8 ],'IVenta' ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+add_att_i(bits,2,40000,16,'EspectaculoImagen_GXI',[ svchar,2048,0,0 ]).
+ 
+upd_i(2,10,u,[ [ 23 ],[],'IVENTA',[] ]).
+ 
+ 
+ 
+start_i(2,0,0,[ [ [ 8,23,'Ventaid',= ] ],one ]).
+ 
+end_i(2,0,0,[ [ [ t(8,2),t(=,10),t('Ventaid',23) ] ] ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(98,[ 'Id' ]).
+ 
+ 
+break_i(2,nvg,1,[],[ [ 23 ],[ 8 ],[] ]).
+break_i(1,rpt,0,[],[ [],[],[] ]).
+ 
+b_group_i(1,1,lit,0,1,0).
+b_group_i(1,2,nvg,2,1,1).
+b_group_i(2,1,lit,0,2,2).
+b_group_i(1,3,lit,0,5,0).
+ 
+b_line_i(0,1,1,cmd,0,[]).
+b_line_i(1,2,1,cmd,2,[ t('',121,1,0),t(table,3,1,10),t(10,3,1,10) ]).
+b_line_i(3,2,1,cmd,2,[ t('',107,3,0),t(23,2,2,0),t(=,10,2,0),t('now(',1,2,0),t(')',4,2,0) ]).
+b_line_i(4,2,1,cmd,2,[ t('',128,4,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+page_layout_i([ 66,0,6 ]).
+ 
+ 
+ 
+paper_info_i([ 0,256,'',11909,16834,0,0,0,0,1 ]).
+ 
+ppi_i([ 100,100 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+warn_gen_i(msg([],spc0060,[ 'The program may be called by another program and the Commit on Exit property is set to YES' ])).
+ 
+ 
+ 
+ 
+grid_i(7,15).
+ 
+ 
+ 
+form_class_i(1,'Graphic').
+ 
+ 
+ 
+ 
+calling_main_i(13,22).
+ 
+att_prop_i(2,23,'ExternalName','VentaHoraFecha',d).
+att_prop_i(2,23,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,23,'EmptyAsNull','Yes',d).
+att_prop_i(2,23,idBasedOn,'',d).
+att_prop_i(2,23,idDATEPRECISION,idDATEPRECISION_SECONDS,d).
+att_prop_i(2,23,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,23,'AttRegEx','',d).
+att_prop_i(2,23,'AttValidationFailedMsg','',d).
+att_prop_i(2,23,idDATEFORMAT,idDATEFORMAT_SHORT,d).
+att_prop_i(2,23,idHOURFORMAT,idHOURFORMAT_HOURMIN,d).
+att_prop_i(2,23,'DownloadOffline','0',d).
+att_prop_i(2,23,'VarServiceExtName','',d).
+att_prop_i(2,23,'FullName','VentaHoraFecha',v).
+att_prop_i(2,8,'ExternalName','VentaId',d).
+att_prop_i(2,8,'ExternalNamespace','TallerGeneXus',d).
+att_prop_i(2,8,'EmptyAsNull','Yes',d).
+att_prop_i(2,8,idBasedOn,98,v).
+att_prop_i(2,8,'AUTONUMBER','-1',d).
+att_prop_i(2,8,'AUTONUMBER_START','1',d).
+att_prop_i(2,8,'AUTONUMBER_STEP','1',d).
+att_prop_i(2,8,'AUTONUMBER_FORREPLICATION','-1',d).
+att_prop_i(2,8,'ATT_INITIAL_VALUE','',d).
+att_prop_i(2,8,'AttRegEx','',d).
+att_prop_i(2,8,'AttValidationFailedMsg','',d).
+att_prop_i(2,8,'DownloadOffline','0',d).
+att_prop_i(2,8,'VarServiceExtName','',d).
+att_prop_i(2,8,'FullName','VentaId',v).
+ 
+tbl_prop_i(2,10,'TBLTXTSTOAREA','',v).
+ 
+tbl_att_prop_i(2,10,8,'AllowNulls',n).
+tbl_att_prop_i(2,10,8,'AUTONUMBER',y).
+tbl_att_prop_i(2,10,23,'AllowNulls',n).
+ 
+var_prop_i(2,'Ventaid',idBasedOn,'',v).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+pgm_callprotocol_i(proc,18,'ACTUALIZARFECHA','INTERNAL','Unsecure').
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
